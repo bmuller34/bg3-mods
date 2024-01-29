@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="h6468ab4mdge8c8g4t5yg9f32ge38f8a3962e" version="3">"He walked out into the demon light. But at the end he was brighter." —Paean to Saint-14</content>
+  <content contentuid="h6468ab4meer48c8g4c2ag9f32ge38f8a396e" version="3">Helm of Saint-14</content>
+  <content contentuid="h7744ab4meer48c8g4c2ag9f32ge38f8a396e" version="3">Drop a [1] protective bubble on the ground at your location. Allies within the bubble are granted &lt;LSTag Type="Status" Tooltip="KYR_ARMOR_OF_LIGHT"&gt;Armor of Light&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="KYR_BLESSING_OF_LIGHT"&gt;Blessing of Light&lt;/LSTag&gt;. Enemies within the bubble are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;.</content>
+  <content contentuid="h4453ab4meer48c8g4c2ag9f32ge38f8a396e" version="3">Ward of Dawn</content>
+  <content contentuid="h7711ab4meer48c8g4c2ag9f32ge38f8a396e" version="3">Passing through Ward of Dawn grants [1] and adds [2] to your equipped weapon.</content>
+  <content contentuid="h4411ab4meer48c8g4c2ag9f32ge38f8a396e" version="3">Blessing of Light</content>
+  <content contentuid="h7712ab4meer48c8g4c2ag9f32ge38f8a396e" version="3">While inside Ward of Dawn, you and your allies are &lt;LSTag Type="Status" Tooltip="RESISTANCE"&gt;Resistant&lt;/LSTag&gt; to all damage.</content>
+  <content contentuid="h4412ab4meer48c8g4c2ag9f32ge38f8a396e" version="3">Armor of Light</content>
+  <content contentuid="h5a0d6496g9bf0g426egb2c1ge7b7a0c54ced" version="3">"I call them the Stompies! For when your legs need that extra kick." —Marcus Ren</content>
+  <content contentuid="h53f237ffg6793g470bg8311g691e744874ac" version="3">ST0MP-EE5</content>
+  <content contentuid="hc8867616gabdbg48beg9699gab25abf1a2e5" version="3">Your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; and jump distance are doubled. Additionally, fall damage is ignored.</content>
+  <content contentuid="hd4a538e7ge3f3g43e3g9577g969922487169" version="3">Hydraulic Boosters</content>
+  <content contentuid="h06e15eadg9bbdg4f76gbf39gd3fc7aa02d56" version="3">"When one can wield the fire of stars, what use is flesh and bone?"</content>
+  <content contentuid="hd96d6a8egf734g41cegb5edg1cb34671798d" version="3">Sunbracers</content>
+  <content contentuid="hbd7b4410gddb9g413egb290g91e3e690cfab" version="3">Getting a melee kill grants a free cast of &lt;LSTag Type="Spell" Tooltip="Projectile_FireBolt"&gt;Fire Bolt&lt;/LSTag&gt; with additional targets. Critical melee kills improve this effect.</content>
+  <content contentuid="h0aa414b8g7b80g40b3ga275gf30b1607fc5d" version="3">Helium Spirals</content>
+  <content contentuid="h3de8acb7gae97g42b2gb0adg157e45a8bff7" version="3">Caution: the organism has been known to develop consciousness. In these cases, immediate termination is recommended.</content>
+  <content contentuid="h8887fed5g3ae3g4807g96c8g47a7ccf116e5" version="3">Synthoceps</content>
+  <content contentuid="h7627ba47ge074g4d5dga207g7976b9df572f" version="3">If [1] or more enemies are within [2] of you, you deal an additional [3] melee damage plus your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; modifier, whichever is higher.</content>
+  <content contentuid="h27cdbb3dg3b9fg433bg915dg1396fd7fc509" version="3">Biotic Enhancements</content>
+  <content contentuid="hf397b479ge21fg484eg945ege5d6c3829d43" version="3">The lightning from the farthest cloud strikes the hardest.</content>
+  <content contentuid="hab6cbdd0g65fdg4067gbe04gc0cab2f3db69" version="3">Cuirass of the Falling Star</content>
+  <content contentuid="hc41647f8gd9a7g4124g825dg5b560b1ccc50" version="3">Hurtle through the air like a missile and crash into targets to inflict meteoric damage over [1]. Upon impact, you gain &lt;LSTag Type="Status" Tooltip="KYR_GLORIOUS_CHARGE"&gt;Glorious Charge&lt;/LSTag&gt;.</content>
+  <content contentuid="h7fdf7137g3d18g40a2g9c2cg48ea62d7a4c7" version="3">Thundercrash</content>
+  <content contentuid="he456b399g3490g46f4gab5ag503cba85fcb1" version="3">Gain [1] and &lt;LSTag Type="Status" Tooltip="RESISTANCE"&gt;Resistance&lt;/LSTag&gt; to Lightning and thunder damage. Additionally, grants &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to electrified surfaces.</content>
+  <content contentuid="h21eec164g031fg4892g983fg814c9a2b0477" version="3">Glorious Charge</content>
+  <content contentuid="hd995df1bg6bddg4c29g88eeg2a8a6b0f9446" version="3">See the danger, even when it cannot see you.</content>
+  <content contentuid="ha5df9251g9718g4a8cg90a3g82bb457d519a" version="3">Omnioculous</content>
+  <content contentuid="h344853c9g3a22g4083g83d5g4d481e996ea6" version="3">Smoke Bomb grants nearby allies &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisibility&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="RESISTANCE"&gt;Resistance&lt;/LSTag&gt; to all damage.</content>
+  <content contentuid="h0cdbc001g3ed4g49f3gb896g5b3ce5dab455" version="3">Beyond the Veil</content>
+  <content contentuid="ha797e0edg7cb4g4961gaa75gafce762b20b4" version="3">Throw a smoke bomb at the target location, &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;blinding&lt;/LSTag&gt; nearby enemies. Additionally, grants &lt;LSTag Type="Status" Tooltip="KYR_BEYOND_THE_VEIL"&gt;Beyond the Veil&lt;/LSTag&gt; to allies.</content>
+  <content contentuid="h5b1ce4ecg3857g4302g9e11g68df71cc43ff" version="3">Smoke Bomb</content>
+  <content contentuid="h3db90503gf15fg496fgb4b8gf105df59a695" version="3">The ideocosm contained within this helm transforms the wearer's head from flesh and/or exoneurons to the pure, raw stuff of thought.</content>
+  <content contentuid="h242473a8gee3fg4b77g87b7g7b42b4b4329a" version="3">Astrocyte Verse</content>
+  <content contentuid="hd95cc0d5g47dbg4e6fga66cg0681fc4b27cc" version="3">Teleport to a location you can see within [1], leaving a [2] explosion of energy behind you. Enemies caught in the blast possibly become &lt;LSTag Type="Status" Tooltip="KYR_VOLATILE"&gt;Volatile&lt;/LSTag&gt;.</content>
+  <content contentuid="hf0d4ad73gfd08g4332gbfe5g5f409ffbbeb3" version="3">Volatile Blink</content>
+  <content contentuid="hfef779c5g999cg44d2gb5efgc69360599b4d" version="3">Target becomes afflicted with void energy. The next attack that deals damage to the target will cause the target to detonate, dealing Psychic damage to allies within [1].</content>
+  <content contentuid="h5d226131g9dbeg4af2g9750ga856b8f885d5" version="3">Volatile</content>
+  <content contentuid="h2aadcedege433g4d02g8607g54715197f344" version="3">Taking non-zero damage causes you to detonate, dealing Psychic damage to allies within [1]</content>
+  <content contentuid="hd32ca6eeg6990g4210ga043gcf1db6cafa86" version="3">Volatile Detonation</content>
+  <content contentuid="h1c3a119ag696eg4e04gb259gc11be3f8b3a9" version="3">Look 'em in the eye.</content>
+  <content contentuid="h6d43370dg9abcg425dgb193gf7a3cedf7283" version="3">Liar's Handshake</content>
+  <content contentuid="h1846a63fg651dg48ddgb317g20798fdbe654" version="3">Receiving or dealing melee damage against enemies makes your next melee attack a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; and heal you for [1]. This effect lasts until you deal melee damage or your turn ends.</content>
+  <content contentuid="h8569812agea6cg4988g83bcg1ee13aed5a6d" version="3">Cross Counter</content>
+  <content contentuid="hfee3aac3gfe33g45e6gada3g048811489c69" version="3">The Active Contact Defense system uses warsat hull materials to store a retaliatory charge.</content>
+  <content contentuid="ha215b7d2gbe4dg4d5cgb487gc71043719f90" version="3">ACD/0 Feedback Fence</content>
+  <content contentuid="he0a818bdg4c06g42f7g8bcag0b9e8fdcd1b6" version="3">Dealing melee damage grants 1 stack of &lt;LSTag Type="Status" Tooltip="KYR_FURY_CONDUCTORS_1"&gt;Fury Conductors&lt;/LSTag&gt;, up to a maximum of 6 stacks. Each stack reduces incoming Bludgeoning, Piercing and Slashing damage by [1]. Taking damage consumes your stacks, dealing [1] Lightning damage per stack to enemies within [2] of you.</content>
+  <content contentuid="hdc423a53g48a0g4919gabd6g4a0fb05bc335" version="3">Fury Conductors</content>
+  <content contentuid="h2b13c021g4101g40e6g9985g5fc5f2a6239f" version="3">Fury Conductors x1</content>
+  <content contentuid="h947b8479gfc1dg41e1gb61cg01cf144f154e" version="3">Fury Conductors x2</content>
+  <content contentuid="h9ec9bcb2g7d03g42dcg9bb5g463a503438d5" version="3">Fury Conductors x3</content>
+  <content contentuid="h17f5e7e9g688eg4a5bgbf10ga442e8f5d11b" version="3">Fury Conductors x4</content>
+  <content contentuid="he9a8f7fbgf8fdg4929ga11bg97762b8dab40" version="3">Fury Conductors x5</content>
+  <content contentuid="ha8479dbeg0740g4d61gb8ffg8f11b3bdd7ed" version="3">Fury Conductors x6</content>
+  <content contentuid="h35117d7dgd0c5g4238g8668g069dc3678a93" version="3">Whether on solid rock or shifting sand dune, the inexorable Sand Eaters never slow their pace.</content>
+  <content contentuid="hf68c0fddg9778g46b6ga8d6gdb9f8e90d38c" version="3">Dunemarchers</content>
+  <content contentuid="h2f9e975bgb094g4dcag87c5g2bdfb37ae26d" version="3">Moving [1] builds up a static charge, unlocking &lt;LSTag Type="Spell" Tooltip="KYR_Target_ElectricDischarge"&gt;Electric Discharge&lt;/LSTag&gt;.</content>
+  <content contentuid="he62beb60g3f90g4276gbeacg77d591f9025d" version="3">Linear Actuators</content>
+  <content contentuid="hdc9a36bcg72a3g4da3gaed0g8aeefba0b8fa" version="3">Channel your static charge through your weapon to deliver a chain of Lightning to enemies, dealing [1] to up to [2] enemies and possibly applying &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Shocked&lt;/LSTag&gt; for 1 turn. Chains may hit the same enemy multiple times.</content>
+  <content contentuid="h5d9b8853gef2bg4c93gb409g3d11089fde6a" version="3">Electric Discharge</content>
+  <content contentuid="h79d85229gbd68g4d02gbf2dg5bf4c3988acd" version="3">Now you see me. Now you don't.</content>
+  <content contentuid="hda7f0a81g5c67g4ac3ga79eg8d5f740d67f2" version="3">Assassin's Cowl</content>
+  <content contentuid="hedc0a1a2g9e99g49a2g9941ga8dd57a4372f" version="3">Final blows against enemies grant &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisibility&lt;/LSTag&gt; for [1] turns and restore a quarter of your total health. Critical final blows improve these effects.</content>
+  <content contentuid="hb08710d9g81afg4b33g83efg9eb7c2620fb1" version="3">Vanishing Execution</content>
+  <content contentuid="hb9292914ge6fcg4580gbcd1g495256fb96bd" version="3">We strive to know infinity, and sharpen our minds on the whetstone of the impossible.</content>
+  <content contentuid="h0b0df44cgf3b2g491fgbe0bg8b00589012cc" version="3">Wormhusk Crown</content>
+  <content contentuid="h4a882a7dg7aabg44d8ga889g8711afa75fe6" version="3">Dodging an enemy attack restores [1]. Critical Misses restore [2].</content>
+  <content contentuid="hf7644039g90d5g4561g96adg35bc8a2704b0" version="3">Burning Souls</content>
+  <content contentuid="h829ab621g04c2g4c5cgaba1g05ecae75bc82" version="3">"I love making people laugh. And by 'people,' I mean me. Haha!" "Haha! Me!"</content>
+  <content contentuid="hc7668f68gee1ag4ac6g8d6eg3200c13b51fd" version="3">Gemini Jester</content>
+  <content contentuid="h0e79cb8bg67e8g4ac6gb1eagefc2e23cf6a8" version="3">Dodging an enemy attack causes them to be &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; until the start of their next turn.</content>
+  <content contentuid="h2986e005g6892g4e75gbc76ga3ac08e557db" version="3">You are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; until the start of your next turn.</content>
+  <content contentuid="h10113e78gaf1bg4aecg9a07gffe8e623a9b2" version="3">Misdirection</content>
+  <content contentuid="hb9d169d4gcf68g4edbg8a95g12b230fbf966" version="3">"To survive out here, you need eyes in the back of your head." —Lord Felwinter</content>
+  <content contentuid="hfd598227g4af0g4c4eg8e66ge14cb1fc6a5b" version="3">Felwinter's Helm</content>
+  <content contentuid="h326e0b8eg05c4g4fcfg86a9g27e3071c5b5e" version="3">Weapon final blows create a [1] burst of energy that makes nearby enemies &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Bludgeoning, Piercing and Slashing damage until the start of their next turn. Critical weapon final blows extend the duration to [2] turns and also make enemies &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Lightning, Cold and Fire damage.</content>
+  <content contentuid="h39326582g2aa5g4b05gb24fg50e33fd39876" version="3">You are &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Bludgeoning, Piercing and Slashing damage until the start of your next turn.</content>
+  <content contentuid="h703a3335g2954g449fgb768gf04fd81f1a9f" version="3">Warlord's End</content>
+  <content contentuid="ha91d6eb0gc3dcg4f01ga914ga0f9a5ffbd35" version="3">You are &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Bludgeoning, Piercing, Slashing, Lightning, Cold and Fire damage for [1] turns.</content>
+  <content contentuid="hd76d94a3g34a4g4b64g8e32g614cac33d3c8" version="3">Warlord's End (Greater)</content>
+  <content contentuid="h2fc36dc9gd34eg410fgb001gfad2bddba905" version="3">"The Traveler has shown us that what was broken can be reformed, becoming better than it was before." —Commander Zavala</content>
+  <content contentuid="h886b4143g24cbg4c9fg986dg64636335019c" version="3">Precious Scars</content>
+  <content contentuid="h8b2322cag6abfg4135gae27g2c2d1e9a212b" version="3">Weapon final blows create a burst of healing around you, restoring half of your total hit points to yourself and allies. &lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;Helping&lt;/LSTag&gt; an ally grants you &lt;LSTag Type="Status" Tooltip="KYR_KINTSUGI_AURA"&gt;Kintsugi&lt;/LSTag&gt;.</content>
+  <content contentuid="h6ca7f771g699cg4994g8996g4cc00b4eae75" version="3">You rally nearby allies, granting them half of your total hit points as temporary hit points. This effect ends after [1] turns or if you lose temporary hit points.</content>
+  <content contentuid="h74facaa0gfcf8g4c1cgad6cg5e2cfdf8036f" version="3">While standing in this aura, you receive temporary hit points equal to half the total hit points of the aura source. This effect ends after [1] turns or when the source of the aura loses their temporary hit points.</content>
+  <content contentuid="h18c0d6c5g6287g4d20gbd6bg7907f1737fe2" version="3">Kintsugi</content>
+  <content contentuid="hf09a1417ge6d7g44d5g914bg2e8e137a7f09" version="3">Starlight is your guide. No vacuum will contain you.</content>
+  <content contentuid="hd26f65d1g4b89g4a24gb61agda5b2dbf04fb" version="3">Celestial Nighthawk</content>
+  <content contentuid="hecfcde9eg2cfeg43f6ga776g0c3ac3d3f80a" version="3">Unlocks &lt;LSTag Type="Spell" Tooltip="KYR_Target_HawkeyeHack"&gt;Hawkeye Hack&lt;/LSTag&gt;, a modified Golden Gun which fires a single high-damaging shot.</content>
+  <content contentuid="hda6e4c5bg1564g43b3ga744g0644082619ea" version="3">A modified Golden Gun which fires a single high-damaging shot. Deals [1] and instantly causes the target to &lt;LSTag Type="Status" Tooltip="KYR_IGNITION"&gt;Ignite&lt;/LSTag&gt;.</content>
+  <content contentuid="h8974cd59g9e05g41f3g853fgb7a80a1e9b01" version="3">Hawkeye Hack</content>
+  <content contentuid="h1dc1fb2fgdb4cg418ag80e5g6a8ec31fbbeb" version="3">Erupt in an explosion of fire, dealing Fire damage to yourself and allies within [1].</content>
+  <content contentuid="hfa2011b3g48ceg436bga365g358b366027be" version="3">Ignition</content>
+  <content contentuid="h953f7611gdf0dg42acg9776gdd82335f134d" version="3">At the start of your next turn, erupt in an explosion of fire, dealing Fire damage to yourself allies within [1].</content>
+  <content contentuid="hdbfb8c7egf854g4901ga702g8b9fb2fc4609" version="3">Primed For Ignition</content>
+  <content contentuid="hd65c0757gb037g4b54g9c36g31a085a1a620" version="3">Built for swift movement, they provide unexpected and decisive social benefits.</content>
+  <content contentuid="had6649beg4098g4dcdga284g86083db024c4" version="3">Radiant Dance Machines</content>
+  <content contentuid="h088d5fd7g56aag48e4g9191gb19c0494bf65" version="3">When an attack misses you, you gain &lt;LSTag Type="Status" Tooltip="KYR_THE_DANCE"&gt;The Dance&lt;/LSTag&gt; for [1] turns. Getting a kill while &lt;LSTag Type="Status" Tooltip="KYR_THE_DANCE"&gt;The Dance&lt;/LSTag&gt; is active extends its duration by 1 turn.</content>
+  <content contentuid="h0e08b770g5938g4d22g9d4eg44f412c73558" version="3">The next attack against you is made with &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;. Getting a kill while this buff is active extends its duration by 1 turn.</content>
+  <content contentuid="ha637b215g1188g4522gbc53ge21e0169f030" version="3">The Dance</content>
+  <content contentuid="h64a82137g1953g4c58gad66g66905352e086" version="3">An eye for an eye.</content>
+  <content contentuid="hd6535b7ag89eag4200gb5cfgb1b42ba1c576" version="3">One-Eyed Mask</content>
+  <content contentuid="hb124d9d5g6185g4553gb36bgc81ad12a56ca" version="3">Enemies that dare to attack you become &lt;LSTag Type="Status" Tooltip="KYR_VENGEANCE_MARKED"&gt;Marked For Vengeance&lt;/LSTag&gt; for [1] turns. Track down and destroy them to gain &lt;LSTag Type="Status" Tooltip="KYR_VENGEANCE_COMPLETED"&gt;Vengeance&lt;/LSTag&gt;. Only one enemy can be marked at a time.</content>
+  <content contentuid="h72ff8fafg9862g49f9g910cg30ebd6924792" version="3">You have been marked for vengeance. Being defeated by your tracker grants them temporary hit points.</content>
+  <content contentuid="h90e92933g32d3g4798g842dg35768dafa2a3" version="3">Marked For Vengeance</content>
+  <content contentuid="h510b10c4g84b9g4843gb1e3g88933d84f484" version="3">You gain [1] for [2] turns. This effect ends early if you lose your temporary hit points.</content>
+  <content contentuid="h8c126d30gfb16g4a4bg9811g0bce3fa5ab27" version="3">Vengeance</content>
+  <content contentuid="h2e8cabe1g5563g4efcg850eg0d6b3c7029cf" version="3">Only bones for your feast. Only death for my victory.</content>
+  <content contentuid="h2c4dd04cgf041g4325g9071ge52685172f86" version="3">Rift Robes</content>
+  <content contentuid="hb57867abg3130g4c61gb8e7ga120ece0673d" version="3">Conjure a well of power at your location.</content>
+  <content contentuid="h937a60a7g971dg4d27g898bg339931ea95af" version="3">Rift</content>
+  <content contentuid="hbabf3551g5766g4926gb01cg9768c604feba" version="3">Conjure a well of power at your location that heals allies inside it for [1] each turn. This Rift stays active for [2] turns or until the owner dies.</content>
+  <content contentuid="hf2c5531agb111g4c25g940bg5ad5ace74b7a" version="3">Standing in this well of power heals you for [1].</content>
+  <content contentuid="h24f80da9g0d8cg4649ga017gf5f491a69bb4" version="3">Healing Rift</content>
+  <content contentuid="h1d86d7bcg616eg4aaeg9cc3g4708fa9b969a" version="3">Conjure a well of power at your location. Allies standing inside the well gain [1] bonus damage. This Rift stays active for [2] turns or until the owner dies.</content>
+  <content contentuid="hd8f9fdafgd80bg4ff6gae38g9b2768130a07" version="3">Standing in this well of power grants [1] bonus damage to your weapons.</content>
+  <content contentuid="hfb3da1cfg8521g4dcagbbd4gedd203a8cadf" version="3">Empowering Rift</content>
+  <content contentuid="h61978494g8d19g4180gb55dg291a76a28267" version="3">The Stag</content>
+  <content contentuid="hab1c807dge495g4fa5ga747g7e973a4cb678" version="3">Rifts you stand in reduce all incoming damage to yourself and allies by [1].</content>
+  <content contentuid="h2ca45e87g7daag4c79g8048g5f048da9fb9e" version="3">This Rift reduces all damage done to you by [1].</content>
+  <content contentuid="h3f8c14ddgc324g4be2gb832g599b44cbf87e" version="3">Dearly Departed</content>
+  <content contentuid="h6ac21a24g2625g4368g8117g3b6e52c870e0" version="3">There is power in blood.</content>
+  <content contentuid="hc636b0c2g3d30g4771gab50g3333a2473ef3" version="3">Sanguine Alchemy</content>
+  <content contentuid="hb153fbf1gde7cg4b09g83a0gfc4b260d7ee5" version="3">Standing in any Rift grants [1] to your equipped weapons. Kills in either a &lt;LSTag Type="Spell" Tooltip="KYR_Shout_HealingRift"&gt;Healing Rift&lt;/LSTag&gt; or an &lt;LSTag Type="Spell" Tooltip="KYR_Shout_EmpoweringRift"&gt;Empowering Rift&lt;/LSTag&gt; allow you to cast another Rift as a bonus action.</content>
+  <content contentuid="h50bbd87cgd4b9g40deg8112g0ac30fd3e81f" version="3">Kills in either a &lt;LSTag Type="Spell" Tooltip="KYR_Shout_HealingRift"&gt;Healing Rift&lt;/LSTag&gt; or an &lt;LSTag Type="Spell" Tooltip="KYR_Shout_EmpoweringRift"&gt;Empowering Rift&lt;/LSTag&gt; allow you to cast another Rift as a bonus action.</content>
+  <content contentuid="h40df1139g5294g43f5g912eg47c048fd1fab" version="3">Blood Magic</content>
+  <content contentuid="h20a286ccgf999g4836gbe65g3ad59717154f" version="3">"Drawn like so, the Rift circle reinscribes planetary energy as a destructive force." —Ikora Rey, "On Circles, Volume 12"</content>
+  <content contentuid="hcf0c5d51g6eb0g4280gb695g534172ff0761" version="3">Vesper of Radius</content>
+  <content contentuid="hf75b4aa8g5888g4a69g8ce2g572db143c478" version="3">Rifts you stand in release a burst of Lightning at the start of each round, dealing Lightning damage to enemies within. Enemies that die inside this Rift explode, dealing Lightning damage across [2].</content>
+  <content contentuid="he26b85bag9ff9g4f90g87aeg7825f9358206" version="3">While standing in this Rift, you will take [1] at the start of each round.</content>
+  <content contentuid="h3177407bgd8fbg4508gba64gfd4df8d60b91" version="3">Planetary Torrent</content>
+  <content contentuid="h3905ab6agab1dg456dg8f06g2e4cb514a762" version="3">13.4 billion years ago, the first stars kindled out of darkness, seeding the future of all life.</content>
+  <content contentuid="h2229f635g9103g4d5cgb885ged3e4a7ab4ea" version="3">Starfire Protocol</content>
+  <content contentuid="hb70c81afg8bdfg4edegba0bgbe48e0c59a33" version="3">While standing in an &lt;LSTag Type="Spell" Tooltip="KYR_Shout_EmpoweringRift"&gt;Empowering Rift&lt;/LSTag&gt;, your fire spells cause enemies to become &lt;LSTag Type="Status" Tooltip="KYR_IGNITION_DELAYED"&gt;Primed For Ignition&lt;/LSTag&gt;.</content>
+  <content contentuid="hca1cad97g5a06g4943g9b0ag221ca4d85e1c" version="3">Fusion Harness</content>
+  <content contentuid="hf09a80e2gbe50g4a0bgb8e5gc193d84f2df3" version="3">The nature of the secant is to intercept a curve, a role all human relationships likewise fill.</content>
+  <content contentuid="hee7dee0dg9000g4598g8302gab3a1e965213" version="3">Secant Filaments</content>
+  <content contentuid="hbc2aaa2agb998g4942ga10fg3c2c5f404758" version="3">Standing in an &lt;LSTag Type="Spell" Tooltip="KYR_Shout_EmpoweringRift"&gt;Empowering Rift&lt;/LSTag&gt; grants you &lt;LSTag Type="Status" Tooltip="KYR_DEVOUR"&gt;Devour&lt;/LSTag&gt; as well as bonus Necrotic damage to your weapons.</content>
+  <content contentuid="h3b42cb68g7bd1g45b2ga98ag3f0cdbbd6860" version="3">Devouring Rift</content>
+  <content contentuid="h6dab0d1bgbe76g4150g9818g1c3f50c2c4b4" version="3">Enemy final blows restore half of your total health and extend the duration of &lt;LSTag Type="Status" Tooltip="KYR_DEVOUR"&gt;Devour&lt;/LSTag&gt; to 3 turns.</content>
+  <content contentuid="h1caa89f4gb8f4g40edg8a8age7aa3d1d8322" version="3">Devour</content>
+  <content contentuid="h130d8472gfef7g4a10gad13gb9f792cbae82" version="3">Pass the torch. Spread the fire.</content>
+  <content contentuid="h92c0d051gcac0g4a88gb451gba2def21e423" version="3">Promethium Spur</content>
+  <content contentuid="h2375f71bg05eeg4e57gbcc3gebc411dab213" version="3">Once per turn, landing a final blow against an enemy while standing in a Rift creates a combination Healing and Empowering Rift at the target's location.</content>
+  <content contentuid="h8476e896ga4b2g484fg92b0g1c0ecbe89247" version="3">Embers of Light</content>
+  <content contentuid="h770ba6afgb1bcg4301g808cga1839f530786" version="3">This Rift combines the effects of &lt;LSTag Type="Spell" Tooltip="KYR_Shout_HealingRift"&gt;Healing Rifts&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="KYR_Shout_EmpoweringRift"&gt;Empowering Rifts&lt;/LSTag&gt;</content>
+  <content contentuid="h74424ea2g3b96g46a1gb6d8g1f5841307251" version="3">Healing and Empowering Rift</content>
+  <content contentuid="h06ddec78g1dd7g4fb3gad9bg0afa68741e84" version="3">For this, there is one remedy.</content>
+  <content contentuid="h7baa33b5gad33g4a67g8e97gdca2629ab299" version="3">Armamentarium</content>
+  <content contentuid="h1a4472c4g442fg422egae2eg04a03a68f345" version="3">Using &lt;LSTag Type="Spell" Tooltip="Throw_Throw"&gt;Throw&lt;/LSTag&gt; unlocks &lt;LSTag Type="Spell" Tooltip="Throw_Throw"&gt;Throw&lt;/LSTag&gt; as a bonus action in the same round of combat.</content>
+  <content contentuid="h20e7dcf3gc8a7g4865gbcb5gf4bb175d1553" version="3">And Another Thing</content>
+  <content contentuid="h5038adc6g5408g4ba4g9ca1g90eff688e359" version="3">This letter is addressed to you and appears to be written by many authors. None of them are familiar to you.</content>
+  <content contentuid="hfdca3245g7c85g4e37g9300gb3ec14eef58b" version="3">A Mysterious Letter</content>
+  <content contentuid="h80f72160g726ag4b7bg95ecg9032fc993d5a" version="3">We stand at the precipice of history. What you do here changes the cosmic balance forever. Through the threads of existence, a gift is bestowed—woven with the essence of paracasual forces.&lt;br&gt;&lt;br&gt;traverse the realms forgotten&lt;br&gt;&lt;br&gt;SHAPE THE PATH AHEAD&lt;br&gt;&lt;br&gt;W E A R E W A T C H I N G</content>
+  <content contentuid="hdc9f69dcgc5a2g4c79ga025gff1eeb9601cb" version="3">BRAINVAULT Sigma-ACTIUM-IX Cranial Dreadnought (Invincible Type)</content>
+  <content contentuid="h19f431a8ge33eg432dg88dcgdc3c36dcc006" version="3">An Insurmountable Skullfort</content>
+  <content contentuid="haf3a3eeege07dg48ebg8b12g708dc787824a" version="3">Lightning or Thunder final blows against enemies trigger health regeneration and restore a level 1 &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt;. Critical final blows improve these effects.</content>
+  <content contentuid="h04887a7cg490ag44d3g8d33g2de37fdfea8b" version="3">Transfusion Matrix</content>
+  <content contentuid="h59dad021gc5e9g47a0g9768g490e73fc38f9" version="3">Transfusion Matrix (Greater)</content>
+  <content contentuid="hd96b6c2bg41adg4d63ga124g9036b534969e" version="3">Absolute, unflinching resolve.</content>
+  <content contentuid="h458c9dfegfa8ag4b55ga0c6ge374c0e94860" version="3">Eternal Warrior</content>
+  <content contentuid="hde4122a2g3041g4e93g9415ge8fe12c246b3" version="3">Lightning or Thunder final blows against enemies grant you stacks of &lt;LSTag Type="Status" Tooltip="KYR_RESOLUTE_1"&gt;Resolute&lt;/LSTag&gt;, up to x4. While this buff is active, you become immune to &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt;.</content>
+  <content contentuid="hc6bc3b5ag3bdfg4805gbb91gc756eff02dad" version="3">Each stack of Resolute grants you temporary hit points and a 1d4 damage bonus to Lightning and Thunder damage, up to x4. Additionally, you are immune to &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt;.</content>
+  <content contentuid="h224c008ag43c5g404bg89eagc2f7f4891d02" version="3">Resolute</content>
+  <content contentuid="h154ce06dg48b0g4c32ga7begce2b2a41c6da" version="3">Resolute x1</content>
+  <content contentuid="h1a8d6f88g085eg4788gbda2ga771eb99d215" version="3">Resolute x2</content>
+  <content contentuid="h96745382geb89g416bg904bg0a0ca9bd54df" version="3">Resolute x3</content>
+  <content contentuid="hd21d1a50gf57bg4015gadcbg89f020b68b49" version="3">Resolute x4</content>
+  <content contentuid="h17942973g6c47g4020g976agc35ee6d35fc4" version="3">Pardon me. Coming through.</content>
+  <content contentuid="h10d03324gc02ag463eg81f1gf34a24dc6260" version="3">Mk. 44 Stand Asides</content>
+  <content contentuid="hfd23e0e7gf49bg4c2cga822g5f1305d4463c" version="3">Using a Rush ability at max health grants you temporary hit points. Hitting at least two enemies restores 1 Action Point.</content>
+  <content contentuid="h06231614g3914g4361gaa80ge59eede39a03" version="3">Hit one more enemy with a Rush attack to restore 1 Action Point. Expires once combat ends.</content>
+  <content contentuid="h72bf5912g56c7g43aegbb1cg556ed419d786" version="3">Seriously, Watch Out</content>
+  <content contentuid="h68383105g09d6g4473gbac5gceb5d2ae4011" version="3">Victory from on high.</content>
+  <content contentuid="h3073701ag7f11g4ac9ga55ag6a02a9fc8790" version="3">Peregrine Greaves</content>
+  <content contentuid="h7fd0b70ag8fdfg4062g83ffg082a7662c7a1" version="3">Your Rush abilities deal an additional [1].</content>
+  <content contentuid="hcfaf2dd7g2608g404egb48bg54168436cc69" version="3">Peregrine Strike</content>
+  <content contentuid="h78f99244g476fg490agab72gba78b368fe17" version="3">Do you deserve it?</content>
+  <content contentuid="h8e385e49gf02ag41c9g8648g7ed7720277e9" version="3">Second Chance</content>
+  <content contentuid="hb6d59482ga7dfg4580g8b0bga8dc370f0f3a" version="3">Throw a Void-infused shield at the target. On a successful hit, the shield ricochets to one other nearby target. Any target hit by the shield becomes &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to all damage until the start of their next turn.</content>
+  <content contentuid="h85bf4417gda61g4f9dgacb8g659fd4900e77" version="3">Myrmidon's Reach</content>
+  <content contentuid="hb56af083g82c8g49feg9242g3b7fd4ddf4d9" version="3">A Void-infused shield that can ricochet off targets, granting temporary hit points upon impact.</content>
+  <content contentuid="h276f447fg65a4g4a7bgac80g781d690cf59e" version="3">Void Shield</content>
+  <content contentuid="h26b0f1e7gf233g4da4ga9bcgbea24c79aa2e" version="3">Paracausal Armor</content>
+  <content contentuid="h465e95c7g9320g49eega93bg3c0efe77c0bd" version="3">This armor grants additional &lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt; as you grow in power.</content>
+  <content contentuid="ha7dfbe1bgeacag4a19g928fge61c0d97810e" version="3">While wearing this armor, you receive an additional bonus to your &lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt;.</content>
+  <content contentuid="h80e96cdag0376g4cb4g8e6egb89697118985" version="3">Paracausal Adept (Acrobatics)</content>
+  <content contentuid="h6bac3ac9g3c55g44a5gb568gbf8970a004a2" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Acrobatics"&gt;Acrobatics&lt;/LSTag&gt;.</content>
+  <content contentuid="hdb573133g487cg4358gb909g7acf50044d58" version="3">Paracausal Adept (Animal Handling)</content>
+  <content contentuid="h8c713658g984bg4343g81a5ga34e859a2abf" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="AnimalHandling"&gt;Animal Handling&lt;/LSTag&gt;.</content>
+  <content contentuid="h6b5cc808g185dg42c2gba07g0680bf7a7caf" version="3">Paracausal Adept (Arcana)</content>
+  <content contentuid="h97daac97g2677g4659g90bdg0d6cab3acd9c" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt;.</content>
+  <content contentuid="h6ead2f52g197ag4beeg8d8egf32040ba62e0" version="3">Paracausal Adept (Athletics)</content>
+  <content contentuid="h34750193gb776g46cagbf19g6acbf918b99a" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Athletics"&gt;Athletics&lt;/LSTag&gt;.</content>
+  <content contentuid="h580caf6agd29eg44ffgad35g3ebc87486ae5" version="3">Paracausal Adept (Deception)</content>
+  <content contentuid="h846683a2ge0c0g40ccgade3gea002d1a6da3" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Deception"&gt;Deception&lt;/LSTag&gt;.</content>
+  <content contentuid="h702df1cfgac16g4007gb163g2324ebbb79f6" version="3">Paracausal Adept (History)</content>
+  <content contentuid="hab186453gfcb2g4af6ga6aagc8fa1daa8962" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="History"&gt;History&lt;/LSTag&gt;.</content>
+  <content contentuid="h9884c254g84fdg4d82g805fg80970138bb7a" version="3">Paracausal Adept (Insight)</content>
+  <content contentuid="h78a6e851gb354g48f6g9172g89f5e7566cee" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Insight"&gt;Insight&lt;/LSTag&gt;.</content>
+  <content contentuid="h5eb7a6fbg908ag49ebgb5d2gc239ab628422" version="3">Paracausal Adept (Intimidation)</content>
+  <content contentuid="hade7ac44g0011g4123g9ef6gd2439ca7c209" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Intimidation"&gt;Intimidation&lt;/LSTag&gt;.</content>
+  <content contentuid="h9b08788bg0131g4077gaa4eg07af6b138ece" version="3">Paracausal Adept (Investigation)</content>
+  <content contentuid="ha6c4e1b8gd8f6g4221g9425g361c4bb8af0a" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;.</content>
+  <content contentuid="hf31dfa42g334fg4281gb385g476856c7a1c9" version="3">Paracausal Adept (Medicine)</content>
+  <content contentuid="h7647a872gd875g4954g80a1g433c06560d39" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Medicine"&gt;Medicine&lt;/LSTag&gt;.</content>
+  <content contentuid="h648591bfga002g4a6ega33ag0ec1b3299ef3" version="3">Paracausal Adept (Nature)</content>
+  <content contentuid="he4ee38a0g6949g49e1g8cf8g7073863756a5" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Nature"&gt;Nature&lt;/LSTag&gt;.</content>
+  <content contentuid="h2798bdb2g8c12g449bg827ag509056e68416" version="3">Paracausal Adept (Perception)</content>
+  <content contentuid="h9ebe9e18g7e07g445bg86e0gae30545a20b2" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;.</content>
+  <content contentuid="h1a232c54g7c08g4a97gac3egbbca78b830e8" version="3">Paracausal Adept (Performance)</content>
+  <content contentuid="h0105db63ga130g4605g9478g35cc6ebc24fa" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Performance"&gt;Performance&lt;/LSTag&gt;.</content>
+  <content contentuid="hf48fca52g9e0ag4fdag96a5gb664a5dec828" version="3">Paracausal Adept (Persuasion)</content>
+  <content contentuid="hdd045f6egf535g46fcga9dag570e520972c7" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt;.</content>
+  <content contentuid="h88566281g2291g4371gb5bag9dcc0e2333e7" version="3">Paracausal Adept (Religion)</content>
+  <content contentuid="hc8f8a0f7g4b58g4671gbcbbg872b23c5b7b9" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Religion"&gt;Religion&lt;/LSTag&gt;.</content>
+  <content contentuid="h825b8801gfefbg44dag8556gc4197517c895" version="3">Paracausal Adept (Sleight of Hand)</content>
+  <content contentuid="hbd43ef39g2776g428cg9b64g288e2fe53fc1" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="SleightOfHand"&gt;Sleight of Hand&lt;/LSTag&gt;.</content>
+  <content contentuid="h1d02a62bgba99g43b3gbaa7g1dffcebd6a6d" version="3">Paracausal Adept (Stealth)</content>
+  <content contentuid="hc5a0f528gf2b5g4afdg8fb1gee21715badd7" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Stealth"&gt;Stealth&lt;/LSTag&gt;.</content>
+  <content contentuid="h7faecdf0g35b8g4055ga342gae114269d646" version="3">Paracausal Adept (Survival)</content>
+  <content contentuid="h8d2e7629g1cfdg4739gb322g7d2a692eaf4a" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt;.</content>
+  <content contentuid="h2f05a561gec72g4cb2gadd6gd68ed1dec624" version="3">Paracausal Ward (Strength)</content>
+  <content contentuid="h11a0e12bg133eg4627gbe9eg423395f657a2" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="h91314fa2gf37ag4060g91b9g13e2b2dfbdcf" version="3">Paracausal Ward (Dexterity)</content>
+  <content contentuid="h1bfb6468g678dg45e4ga89ege95981a19c05" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="h02a69d39ge82ag4433g9ab0gc474e300c039" version="3">Paracausal Ward (Constitution)</content>
+  <content contentuid="h5dfc720bgb3e6g4b8fga3f3g941f334bb794" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="hd584fd71gc3c4g4655gaf64g55b9ffc8e4ea" version="3">Paracausal Ward (Intelligence)</content>
+  <content contentuid="h609336e7gf112g43b9gb6c3ga34f1fba76d5" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="h823fb24fg9e4fg4eb4g8060g206078911a94" version="3">Paracausal Ward (Wisdom)</content>
+  <content contentuid="hf1ce0e44g5700g44e9g9a38ge6bd06544402" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="heaf59087g9735g4d76g927fga0dbb6175a82" version="3">Paracausal Ward (Charisma)</content>
+  <content contentuid="h309e4d28g0b70g4885g8815g5db253ec2c63" version="3">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="h732bec52g5cb0g4fe9gb9cbg18e0b09941b9" version="3">On a successful save, the target still takes half damage.</content>
+  <content contentuid="h49d2f810g9dcdg4e47gbea4g80ac0765df31" version="3">Gyrfalcon's Hauberk</content>
+  <content contentuid="hadf8ceb6g81e9g4040g9a84g785ca48ac75e" version="3">The higher your flight, the faster your dive.</content>
+  <content contentuid="h2207b2f7g0babg4647g96a1gba90da1b2a6f" version="3">See Me, Feel Me</content>
+  <content contentuid="hf68f4b92g19b0g443bgba8eg6c6a22cb5f86" version="3">Damaging an enemy while you are &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisibile&lt;/LSTag&gt; grants &lt;LSTag Type="Status" Tooltip="KYR_VOLATILE_ROUNDS"&gt;Volatile Infusion&lt;/LSTag&gt; to your equipped weapons for [1] turn. Weapon final blows made coming out of &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;invisibility&lt;/LSTag&gt; grant you bonus weapon damage until the end of your turn and grant a small amount of temporary hit points to yourself and allies within [2].</content>
+  <content contentuid="hc1423f8ag7074g490eg96cdg632375de85a5" version="3">Volatile Infusion</content>
+  <content contentuid="h1a3742afgb9ccg4806ga398gc89890818e43" version="3">Your weapon attacks make your targets &lt;LSTag Type="Status" Tooltip="KYR_VOLATILE"&gt;Volatile&lt;/LSTag&gt;.</content>
+  <content contentuid="h628f1987g0f6cg4466ga282gb4653f298b4e" version="3">You deal an additional [1] damage with your equipped weapons.</content>
+  <content contentuid="hc35d2d20g01acg4102g9c52g96cfa4e0b50c" version="3">You receive [1] while standing in this aura.</content>
+  <content contentuid="hb9ecefabg58b4g4ff7g9923g5c31012575b5" version="3">You grant [1] to yourself and nearby allies within [2].</content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+</contentList>

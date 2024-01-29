@@ -1,0 +1,16 @@
+{
+    "Mods": [
+        {
+            "Author": "Modder's name",
+            "Name": "D2Exotics",
+            "Folder": "D2Exotics",
+            "Version": "144115188075855912",
+            "Description": "A sample mod to serve as a resource for other modders.",
+            "UUID": "12d4fdc5-0b13-460f-91c5-beaac4ab9e86",
+            "Created": "2023-09-19T12:55:48.5181579-04:00",
+            "Dependencies": [],
+            "Group": "beb10760-b44b-4cba-ba92-7951d56b037e"
+        }
+    ],
+    "MD5": "49c810f581bc4c825dd53cf3154ea525"
+}

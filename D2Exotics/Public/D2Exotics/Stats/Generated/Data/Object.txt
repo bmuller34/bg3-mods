@@ -1,0 +1,8 @@
+new entry "KYR_BOOK_LetterFromTheNine"
+type "Object"
+using "OBJ_Scroll"
+data "RootTemplate" "732feff3-a686-4425-9e74-cfbd9f4b93a5"
+data "ObjectCategory" "BookTravel"
+data "MinAmount" "1"
+data "MaxAmount" "1"
+data "Priority" "1"
