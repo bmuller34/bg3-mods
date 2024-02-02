@@ -24,7 +24,7 @@
   <content contentuid="hab6cbdd0g65fdg4067gbe04gc0cab2f3db69" version="3">Cuirass of the Falling Star</content>
   <content contentuid="hc41647f8gd9a7g4124g825dg5b560b1ccc50" version="3">Hurtle through the air like a missile and crash into targets to inflict meteoric damage over [1]. Upon impact, you gain &lt;LSTag Type="Status" Tooltip="KYR_GLORIOUS_CHARGE"&gt;Glorious Charge&lt;/LSTag&gt;.</content>
   <content contentuid="h7fdf7137g3d18g40a2g9c2cg48ea62d7a4c7" version="3">Thundercrash</content>
-  <content contentuid="he456b399g3490g46f4gab5ag503cba85fcb1" version="3">Gain [1] and &lt;LSTag Type="Status" Tooltip="RESISTANCE"&gt;Resistance&lt;/LSTag&gt; to Lightning and thunder damage. Additionally, grants &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to electrified surfaces.</content>
+  <content contentuid="he456b399g3490g46f4gab5ag503cba85fcb1" version="3">Gain [1] and &lt;LSTag Type="Status" Tooltip="RESISTANCE"&gt;Resistance&lt;/LSTag&gt; to Lightning and Thunder damage. Additionally, grants &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to electrified surfaces.</content>
   <content contentuid="h21eec164g031fg4892g983fg814c9a2b0477" version="3">Glorious Charge</content>
   <content contentuid="hd995df1bg6bddg4c29g88eeg2a8a6b0f9446" version="3">See the danger, even when it cannot see you.</content>
   <content contentuid="ha5df9251g9718g4a8cg90a3g82bb457d519a" version="3">Omnioculous</content>
@@ -36,7 +36,7 @@
   <content contentuid="h242473a8gee3fg4b77g87b7g7b42b4b4329a" version="3">Astrocyte Verse</content>
   <content contentuid="hd95cc0d5g47dbg4e6fga66cg0681fc4b27cc" version="3">Teleport to a location you can see within [1], leaving a [2] explosion of energy behind you. Enemies caught in the blast possibly become &lt;LSTag Type="Status" Tooltip="KYR_VOLATILE"&gt;Volatile&lt;/LSTag&gt;.</content>
   <content contentuid="hf0d4ad73gfd08g4332gbfe5g5f409ffbbeb3" version="3">Volatile Blink</content>
-  <content contentuid="hfef779c5g999cg44d2gb5efgc69360599b4d" version="3">Target becomes afflicted with void energy. The next attack that deals damage to the target will cause the target to detonate, dealing Psychic damage to allies within [1].</content>
+  <content contentuid="hfef779c5g999cg44d2gb5efgc69360599b4d" version="3">Target becomes afflicted with void energy. The next attack that deals damage to the target causes the target to detonate, dealing Psychic damage across [1].</content>
   <content contentuid="h5d226131g9dbeg4af2g9750ga856b8f885d5" version="3">Volatile</content>
   <content contentuid="h2aadcedege433g4d02g8607g54715197f344" version="3">Taking non-zero damage causes you to detonate, dealing Psychic damage to allies within [1]</content>
   <content contentuid="hd32ca6eeg6990g4210ga043gcf1db6cafa86" version="3">Volatile Detonation</content>
@@ -93,7 +93,7 @@
   <content contentuid="h8974cd59g9e05g41f3g853fgb7a80a1e9b01" version="3">Hawkeye Hack</content>
   <content contentuid="h1dc1fb2fgdb4cg418ag80e5g6a8ec31fbbeb" version="3">Erupt in an explosion of fire, dealing Fire damage to yourself and allies within [1].</content>
   <content contentuid="hfa2011b3g48ceg436bga365g358b366027be" version="3">Ignition</content>
-  <content contentuid="h953f7611gdf0dg42acg9776gdd82335f134d" version="3">At the start of your next turn, erupt in an explosion of fire, dealing Fire damage to yourself allies within [1].</content>
+  <content contentuid="h953f7611gdf0dg42acg9776gdd82335f134d" version="3">At the start of your next turn, you &lt;LSTag Type="Status" Tooltip="KYR_IGNITION"&gt;Ignite&lt;/LSTag&gt;.</content>
   <content contentuid="hdbfb8c7egf854g4901ga702g8b9fb2fc4609" version="3">Primed For Ignition</content>
   <content contentuid="hd65c0757gb037g4b54g9c36g31a085a1a620" version="3">Built for swift movement, they provide unexpected and decisive social benefits.</content>
   <content contentuid="had6649beg4098g4dcdga284g86083db024c4" version="3">Radiant Dance Machines</content>
@@ -114,8 +114,8 @@
   <content contentuid="hbabf3551g5766g4926gb01cg9768c604feba" version="3">Conjure a well of power at your location that heals allies inside it for [1] each turn. This Rift stays active for [2] turns or until the owner dies.</content>
   <content contentuid="hf2c5531agb111g4c25g940bg5ad5ace74b7a" version="3">Standing in this well of power heals you for [1].</content>
   <content contentuid="h24f80da9g0d8cg4649ga017gf5f491a69bb4" version="3">Healing Rift</content>
-  <content contentuid="h1d86d7bcg616eg4aaeg9cc3g4708fa9b969a" version="3">Conjure a well of power at your location. Allies standing inside the well gain [1] bonus damage. This Rift stays active for [2] turns or until the owner dies.</content>
-  <content contentuid="hd8f9fdafgd80bg4ff6gae38g9b2768130a07" version="3">Standing in this well of power grants [1] bonus damage to your weapons.</content>
+  <content contentuid="h1d86d7bcg616eg4aaeg9cc3g4708fa9b969a" version="3">Conjure a well of power at your location. Allies standing inside the well gain a bonus [1] to their weapons. This Rift stays active for [2] turns or until the owner dies.</content>
+  <content contentuid="h382fa6a4gba81g480cg9b05gdfe2fc6c1c7c" version="3">Standing in this well of power grants a bonus [1] to your weapons.</content>
   <content contentuid="hfb3da1cfg8521g4dcagbbd4gedd203a8cadf" version="3">Empowering Rift</content>
   <content contentuid="h61978494g8d19g4180gb55dg291a76a28267" version="3">The Stag</content>
   <content contentuid="hab1c807dge495g4fa5ga747g7e973a4cb678" version="3">Rifts you stand in reduce all incoming damage to yourself and allies by [1].</content>
@@ -128,7 +128,7 @@
   <content contentuid="h40df1139g5294g43f5g912eg47c048fd1fab" version="3">Blood Magic</content>
   <content contentuid="h20a286ccgf999g4836gbe65g3ad59717154f" version="3">"Drawn like so, the Rift circle reinscribes planetary energy as a destructive force." —Ikora Rey, "On Circles, Volume 12"</content>
   <content contentuid="hcf0c5d51g6eb0g4280gb695g534172ff0761" version="3">Vesper of Radius</content>
-  <content contentuid="hf75b4aa8g5888g4a69g8ce2g572db143c478" version="3">Rifts you stand in release a burst of Lightning at the start of each round, dealing Lightning damage to enemies within. Enemies that die inside this Rift explode, dealing Lightning damage across [2].</content>
+  <content contentuid="hf75b4aa8g5888g4a69g8ce2g572db143c478" version="3">Rifts you stand in release a burst of Lightning at the start of each round, dealing Lightning damage to enemies within. Enemies that die inside this Rift explode, dealing Lightning damage across [1].</content>
   <content contentuid="he26b85bag9ff9g4f90g87aeg7825f9358206" version="3">While standing in this Rift, you will take [1] at the start of each round.</content>
   <content contentuid="h3177407bgd8fbg4508gba64gfd4df8d60b91" version="3">Planetary Torrent</content>
   <content contentuid="h3905ab6agab1dg456dg8f06g2e4cb514a762" version="3">13.4 billion years ago, the first stars kindled out of darkness, seeding the future of all life.</content>
@@ -238,9 +238,9 @@
   <content contentuid="h49d2f810g9dcdg4e47gbea4g80ac0765df31" version="3">Gyrfalcon's Hauberk</content>
   <content contentuid="hadf8ceb6g81e9g4040g9a84g785ca48ac75e" version="3">The higher your flight, the faster your dive.</content>
   <content contentuid="h2207b2f7g0babg4647g96a1gba90da1b2a6f" version="3">See Me, Feel Me</content>
-  <content contentuid="hf68f4b92g19b0g443bgba8eg6c6a22cb5f86" version="3">Damaging an enemy while you are &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisibile&lt;/LSTag&gt; grants &lt;LSTag Type="Status" Tooltip="KYR_VOLATILE_ROUNDS"&gt;Volatile Infusion&lt;/LSTag&gt; to your equipped weapons for [1] turn. Weapon final blows made coming out of &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;invisibility&lt;/LSTag&gt; grant you bonus weapon damage until the end of your turn and grant a small amount of temporary hit points to yourself and allies within [2].</content>
+  <content contentuid="hf68f4b92g19b0g443bgba8eg6c6a22cb5f86" version="3">Damaging an enemy while you are &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisibile&lt;/LSTag&gt; grants &lt;LSTag Type="Status" Tooltip="KYR_VOLATILE_ROUNDS"&gt;Volatile Infusion&lt;/LSTag&gt; for [1] turn. Weapon final blows made while &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;invisibile&lt;/LSTag&gt; grant you bonus weapon damage until the end of your turn and also grant a small amount of temporary hit points to yourself and allies within [2].</content>
   <content contentuid="hc1423f8ag7074g490eg96cdg632375de85a5" version="3">Volatile Infusion</content>
-  <content contentuid="h1a3742afgb9ccg4806ga398gc89890818e43" version="3">Your weapon attacks make your targets &lt;LSTag Type="Status" Tooltip="KYR_VOLATILE"&gt;Volatile&lt;/LSTag&gt;.</content>
+  <content contentuid="h1a3742afgb9ccg4806ga398gc89890818e43" version="3">Weapon attacks cause targets to become &lt;LSTag Type="Status" Tooltip="KYR_VOLATILE"&gt;Volatile&lt;/LSTag&gt;.</content>
   <content contentuid="h628f1987g0f6cg4466ga282gb4653f298b4e" version="3">You deal an additional [1] damage with your equipped weapons.</content>
   <content contentuid="hc35d2d20g01acg4102g9c52g96cfa4e0b50c" version="3">You receive [1] while standing in this aura.</content>
   <content contentuid="hb9ecefabg58b4g4ff7g9923g5c31012575b5" version="3">You grant [1] to yourself and nearby allies within [2].</content>
