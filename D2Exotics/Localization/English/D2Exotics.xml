@@ -94,7 +94,7 @@
   <content contentuid="h1dc1fb2fgdb4cg418ag80e5g6a8ec31fbbeb" version="3">Erupt in an explosion of fire, dealing Fire damage to yourself and allies within [1].</content>
   <content contentuid="hfa2011b3g48ceg436bga365g358b366027be" version="3">Ignition</content>
   <content contentuid="h953f7611gdf0dg42acg9776gdd82335f134d" version="3">At the start of your next turn, you &lt;LSTag Type="Status" Tooltip="KYR_IGNITION"&gt;Ignite&lt;/LSTag&gt;.</content>
-  <content contentuid="hdbfb8c7egf854g4901ga702g8b9fb2fc4609" version="3">Primed For Ignition</content>
+  <content contentuid="hdbfb8c7egf854g4901ga702g8b9fb2fc4609" version="3">Primed To Ignite</content>
   <content contentuid="hd65c0757gb037g4b54g9c36g31a085a1a620" version="3">Built for swift movement, they provide unexpected and decisive social benefits.</content>
   <content contentuid="had6649beg4098g4dcdga284g86083db024c4" version="3">Radiant Dance Machines</content>
   <content contentuid="h088d5fd7g56aag48e4g9191gb19c0494bf65" version="3">When an attack misses you, you gain &lt;LSTag Type="Status" Tooltip="KYR_THE_DANCE"&gt;The Dance&lt;/LSTag&gt; for [1] turns. Getting a kill while &lt;LSTag Type="Status" Tooltip="KYR_THE_DANCE"&gt;The Dance&lt;/LSTag&gt; is active extends its duration by 1 turn.</content>
@@ -133,7 +133,7 @@
   <content contentuid="h3177407bgd8fbg4508gba64gfd4df8d60b91" version="3">Planetary Torrent</content>
   <content contentuid="h3905ab6agab1dg456dg8f06g2e4cb514a762" version="3">13.4 billion years ago, the first stars kindled out of darkness, seeding the future of all life.</content>
   <content contentuid="h2229f635g9103g4d5cgb885ged3e4a7ab4ea" version="3">Starfire Protocol</content>
-  <content contentuid="hb70c81afg8bdfg4edegba0bgbe48e0c59a33" version="3">While standing in an &lt;LSTag Type="Spell" Tooltip="KYR_Shout_EmpoweringRift"&gt;Empowering Rift&lt;/LSTag&gt;, your fire spells cause enemies to become &lt;LSTag Type="Status" Tooltip="KYR_IGNITION_DELAYED"&gt;Primed For Ignition&lt;/LSTag&gt;.</content>
+  <content contentuid="hb70c81afg8bdfg4edegba0bgbe48e0c59a33" version="3">While standing in an &lt;LSTag Type="Spell" Tooltip="KYR_Shout_EmpoweringRift"&gt;Empowering Rift&lt;/LSTag&gt;, your fire spells cause enemies to become &lt;LSTag Type="Status" Tooltip="KYR_IGNITION_DELAYED"&gt;Primed To Ignite&lt;/LSTag&gt;.</content>
   <content contentuid="hca1cad97g5a06g4943g9b0ag221ca4d85e1c" version="3">Fusion Harness</content>
   <content contentuid="hf09a80e2gbe50g4a0bgb8e5gc193d84f2df3" version="3">The nature of the secant is to intercept a curve, a role all human relationships likewise fill.</content>
   <content contentuid="hee7dee0dg9000g4598g8302gab3a1e965213" version="3">Secant Filaments</content>

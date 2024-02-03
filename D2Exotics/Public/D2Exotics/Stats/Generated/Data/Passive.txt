@@ -269,7 +269,7 @@ data "DisplayName" "hca1cad97g5a06g4943g9b0ag221ca4d85e1c;3"
 data "Description" "hb70c81afg8bdfg4edegba0bgbe48e0c59a33;3"
 data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnDamage"
-data "Conditions" "IsSpell() and IsDamageTypeFire() and (not Ally() or not Self()) and HasStatus('KYR_EMPOWERING_RIFT_AURA_BOOST', context.Source) and not HasStatus('KYR_IGNITION_COOLDOWN', context.Target)"
+data "Conditions" "(IsSpell() or IsCantrip()) and IsDamageTypeFire() and (not Ally() or not Self()) and HasStatus('KYR_EMPOWERING_RIFT_AURA_BOOST', context.Source)"
 data "StatsFunctors" "ApplyStatus(KYR_IGNITION_DELAYED,100,1)"
 
 new entry "KYR_DevouringRift_Passive_OnStatusApplied"
