@@ -244,6 +244,16 @@
   <content contentuid="h628f1987g0f6cg4466ga282gb4653f298b4e" version="3">You deal an additional [1] damage with your equipped weapons.</content>
   <content contentuid="hc35d2d20g01acg4102g9c52g96cfa4e0b50c" version="3">You receive [1] while standing in this aura.</content>
   <content contentuid="hb9ecefabg58b4g4ff7g9923g5c31012575b5" version="3">You grant [1] to yourself and nearby allies within [2].</content>
+  <content contentuid="h0977ec42gc175g4ca7g9594gb14e9a42dc2e" version="3">Arrow of Delayed Ignition</content>
+  <content contentuid="h8bccf53aga767g466cga045ge73ad0af1744" version="3">Imbued with Solar energy, this arrow will cause its target to &lt;LSTag Type="Status" Tooltip="KYR_IGNITION"&gt;Ignite&lt;/LSTag&gt; at the start of their next turn.</content>
+  <content contentuid="h10e9709fg1b53g40bdg934cg440345f0f89a" version="3">On a failed save, target becomes &lt;LSTag Type="Status" Tooltip="KYR_IGNITION_DELAYED"&gt;Primed To Ignite&lt;/LSTag&gt;</content>
+  <content contentuid="he640bd97g0027g4ca5g8aa5gfe6a58d7275e" version="3">Arrow of Volatility</content>
+  <content contentuid="hf17f330bgf59ag4b2eg95dag73bd8e809173" version="3">Imbued with Void energy, this arrow will cause its target to become &lt;LSTag Type="Status" Tooltip="KYR_VOLATILE"&gt;Volatile&lt;/LSTag&gt;.</content>
+  <content contentuid="h6a991015g6dabg4059gaad7g9e85ad2f9f94" version="3">On a failed save, target becomes &lt;LSTag Type="Status" Tooltip="KYR_VOLATILE"&gt;Volatile&lt;/LSTag&gt;</content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
   <content contentuid="" version="3"></content>
   <content contentuid="" version="3"></content>
   <content contentuid="" version="3"></content>

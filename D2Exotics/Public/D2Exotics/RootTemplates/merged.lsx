@@ -10476,6 +10476,128 @@
 						</node>
 					</children>
 				</node>
+				<node id="GameObjects"> Arrows of Ignition
+					<attribute id="MapKey" type="FixedString" value="7b55bf9e-4b8c-49cb-b734-56300603c759" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h0977ec42gc175g4ca7g9594gb14e9a42dc2e" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="h8bccf53aga767g466cga045ge73ad0af1744" version="3" />
+					<attribute id="Name" type="LSString" value="ARR_Arrow_Of_Fire" />
+					<attribute id="Stats" type="FixedString" value="KYR_OBJ_ArrowOfIgnition" />
+					<attribute id="Icon" type="FixedString" value="Item_ARR_Arrow_Of_Fire" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Opacity" type="float" value="0" />
+					<attribute id="ParentTemplateId" type="FixedString" value="493d043f-3eb1-4a57-b41d-0129f3e07444" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="f23a1bc8-3d8c-9c97-445c-9da59e1d346b" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="288e4f0f-169d-2e27-1f83-80b6dc4e77a3" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241408" />
+					<attribute id="maxStackAmount" type="int32" value="100" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.418184" />
+									<attribute id="Max" type="fvec3" value="0.48651558 0.017162066 0.025998322" />
+									<attribute id="Min" type="fvec3" value="-0.46796733 -0.030015055 -0.026029123" />
+									<attribute id="Radius" type="float" value="0.114147" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.418184" />
+									<attribute id="Max" type="fvec3" value="0.48651558 0.017162066 0.025998322" />
+									<attribute id="Min" type="fvec3" value="-0.46796733 -0.030015055 -0.026029123" />
+									<attribute id="Radius" type="float" value="0.114147" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.418184" />
+									<attribute id="Max" type="fvec3" value="0.24325779 0.017162066 0.012999161" />
+									<attribute id="Min" type="fvec3" value="-0.23398367 -0.030015055 -0.013014561" />
+									<attribute id="Radius" type="float" value="0.0570735" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="KYR_Projectile_ArrowOfIgnition" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects"> Arrow of Volatility
+					<attribute id="MapKey" type="FixedString" value="348a66da-cae7-4730-9d3a-ba53eaa0be5e" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he640bd97g0027g4ca5g8aa5gfe6a58d7275e" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="hf17f330bgf59ag4b2eg95dag73bd8e809173" version="3" />
+					<attribute id="Name" type="LSString" value="ARR_Arrow_Of_Fire" />
+					<attribute id="Stats" type="FixedString" value="KYR_OBJ_ArrowOfVolatility" />
+					<attribute id="Icon" type="FixedString" value="Item_ARR_Arrow_Of_Lightning" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Opacity" type="float" value="0" />
+					<attribute id="ParentTemplateId" type="FixedString" value="493d043f-3eb1-4a57-b41d-0129f3e07444" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="65b4093c-10fc-063a-7919-963c98172d73" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="7f58421d-72be-849b-e697-2801b58461b2" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115203108241408" />
+					<attribute id="maxStackAmount" type="int32" value="100" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.418184" />
+									<attribute id="Max" type="fvec3" value="0.48651558 0.017162066 0.025998322" />
+									<attribute id="Min" type="fvec3" value="-0.46796733 -0.030015055 -0.026029123" />
+									<attribute id="Radius" type="float" value="0.114147" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.418184" />
+									<attribute id="Max" type="fvec3" value="0.48651558 0.017162066 0.025998322" />
+									<attribute id="Min" type="fvec3" value="-0.46796733 -0.030015055 -0.026029123" />
+									<attribute id="Radius" type="float" value="0.114147" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.418184" />
+									<attribute id="Max" type="fvec3" value="0.24325779 0.017162066 0.012999161" />
+									<attribute id="Min" type="fvec3" value="-0.23398367 -0.030015055 -0.013014561" />
+									<attribute id="Radius" type="float" value="0.0570735" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="KYR_Projectile_ArrowOfVolaility" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
 			</children>
 		</node>
 	</region>
