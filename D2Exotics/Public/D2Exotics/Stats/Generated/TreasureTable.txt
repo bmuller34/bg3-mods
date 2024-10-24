@@ -63,9 +63,9 @@ new subtable "1,1"
 object category "I_KYR_PeregrineGreaves",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_KYR_GyrfalconsHauberk",1,0,0,0,0,0,0,0
-new subtable "5,1"
+new subtable "15,1"
 object category "I_KYR_OBJ_ArrowOfIgnition",1,0,0,0,0,0,0,0
-new subtable "5,1"
+new subtable "15,1"
 object category "I_KYR_OBJ_ArrowOfVolatility",1,0,0,0,0,0,0,0
 
 new treasuretable "CRE_GithQuartermistress_Trade"

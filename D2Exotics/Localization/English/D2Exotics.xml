@@ -56,10 +56,12 @@
   <content contentuid="ha8479dbeg0740g4d61gb8ffg8f11b3bdd7ed" version="3">Fury Conductors x6</content>
   <content contentuid="h35117d7dgd0c5g4238g8668g069dc3678a93" version="3">Whether on solid rock or shifting sand dune, the inexorable Sand Eaters never slow their pace.</content>
   <content contentuid="hf68c0fddg9778g46b6ga8d6gdb9f8e90d38c" version="3">Dunemarchers</content>
-  <content contentuid="h2f9e975bgb094g4dcag87c5g2bdfb37ae26d" version="3">Moving [1] builds up a static charge, unlocking &lt;LSTag Type="Spell" Tooltip="KYR_Target_ElectricDischarge"&gt;Electric Discharge&lt;/LSTag&gt;.</content>
+  <content contentuid="h2f9e975bgb094g4dcag87c5g2bdfb37ae26d" version="3">Moving [1] builds up a static charge, unlocking &lt;LSTag Type="Spell" Tooltip="KYR_Target_ElectricDischarge_Tier_1"&gt;Electric Discharge&lt;/LSTag&gt;.</content>
   <content contentuid="he62beb60g3f90g4276gbeacg77d591f9025d" version="3">Linear Actuators</content>
   <content contentuid="hdc9a36bcg72a3g4da3gaed0g8aeefba0b8fa" version="3">Channel your static charge through your weapon to deliver a chain of Lightning to enemies, dealing [1] to up to [2] enemies and possibly applying &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Shocked&lt;/LSTag&gt; for 1 turn. Chains may hit the same enemy multiple times.</content>
+  <content contentuid="h4b517948gc3cfg46aeg820fg18c0b9c47d55" version="3">Channel your static charge through your fists to deliver a chain of Lightning to enemies, dealing [1] to up to [2] enemies and possibly applying &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Shocked&lt;/LSTag&gt; for 1 turn. Chains may hit the same enemy multiple times.</content>
   <content contentuid="h5d9b8853gef2bg4c93gb409g3d11089fde6a" version="3">Electric Discharge</content>
+  <content contentuid="hbb8dd824gae48g4c0cg981dgd06e75ad8833" version="3">Electric Discharge (Unarmed)</content>
   <content contentuid="h79d85229gbd68g4d02gbf2dg5bf4c3988acd" version="3">Now you see me. Now you don't.</content>
   <content contentuid="hda7f0a81g5c67g4ac3ga79eg8d5f740d67f2" version="3">Assassin's Cowl</content>
   <content contentuid="hedc0a1a2g9e99g49a2g9941ga8dd57a4372f" version="3">Final blows against enemies grant &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisibility&lt;/LSTag&gt; for [1] turns and restore a quarter of your total health. Critical final blows improve these effects.</content>

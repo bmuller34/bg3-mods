@@ -1,13 +1,13 @@
 {
     "Mods": [
         {
-            "Author": "Modder's name",
+            "Author": "Kyrosa",
             "Name": "D2Exotics",
             "Folder": "D2Exotics",
             "Version": "144115188075855912",
-            "Description": "A sample mod to serve as a resource for other modders.",
+            "Description": "A work-in-progress mod to add Destiny 2 exotics into BG3.",
             "UUID": "12d4fdc5-0b13-460f-91c5-beaac4ab9e86",
-            "Created": "2023-09-19T12:55:48.5181579-04:00",
+            "Created": "2023-11-13T12:55:48.5181579-04:00",
             "Dependencies": [],
             "Group": "beb10760-b44b-4cba-ba92-7951d56b037e"
         }
