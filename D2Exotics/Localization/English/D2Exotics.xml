@@ -252,10 +252,10 @@
   <content contentuid="he640bd97g0027g4ca5g8aa5gfe6a58d7275e" version="3">Arrow of Volatility</content>
   <content contentuid="hf17f330bgf59ag4b2eg95dag73bd8e809173" version="3">Imbued with Void energy, this arrow will cause its target to become &lt;LSTag Type="Status" Tooltip="KYR_VOLATILE"&gt;Volatile&lt;/LSTag&gt;.</content>
   <content contentuid="h6a991015g6dabg4059gaad7g9e85ad2f9f94" version="3">On a failed save, target becomes &lt;LSTag Type="Status" Tooltip="KYR_VOLATILE"&gt;Volatile&lt;/LSTag&gt;</content>
-  <content contentuid="" version="3"></content>
-  <content contentuid="" version="3"></content>
-  <content contentuid="" version="3"></content>
-  <content contentuid="" version="3"></content>
+  <content contentuid="h8ca4ed30g64c2g4121g9666g4e6a38afebd4" version="3">Karenstein Armlets</content>
+  <content contentuid="h9c5df0a1g0ffbg46fcg9599g25ba1008a503" version="3">“You are mine, you shall be mine, you and I are one for ever.”</content>
+  <content contentuid="ha4c22c15g9b68g4819g9911g42667c8e48d9" version="3">Vampire's Caress</content>
+  <content contentuid="h79ef128ag886cg498fgbbd5g90d0f0f1e10c" version="3">Unarmed melee kills restore a third of your total hit points. At the start of your next turn, you restore [0]. Additional kills extend the duration by 1 turn. Critical kills grant a longer duration.</content>
   <content contentuid="" version="3"></content>
   <content contentuid="" version="3"></content>
   <content contentuid="" version="3"></content>
