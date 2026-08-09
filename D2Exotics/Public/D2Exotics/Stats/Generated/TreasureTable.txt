@@ -70,8 +70,6 @@ object category "I_KYR_LunafactionBoots",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_KYR_NecroticGrip",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_MAG_Fire_AlwaysDippedInFire_Greatsword",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_KYR_SeveranceEnclosure",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_KYR_ThePathOfTheBurningSteps",1,0,0,0,0,0,0,0

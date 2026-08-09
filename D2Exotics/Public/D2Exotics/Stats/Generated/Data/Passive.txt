@@ -663,6 +663,7 @@ type "PassiveData"
 data "DisplayName" "h6bb013a9gc4fcg49f2g914egb877caec44ad;3"
 data "Properties" "IsHidden;Highlighted"
 data "StatsFunctorContext" "OnDamage"
+data "Conditions" "(IsMeleeAttack() or IsMeleeUnarmedAttack()) and Enemy()"
 data "Boosts" "IF(HasStatus('KYR_FIREWALKER', context.Source)):DamageBonus(ProficiencyBonus,Fire)"
 
 new entry "KYR_Firewalker_Passive_OnMovedDistance"

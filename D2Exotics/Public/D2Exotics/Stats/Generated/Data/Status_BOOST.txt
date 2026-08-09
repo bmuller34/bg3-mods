@@ -1164,7 +1164,7 @@ data "Icon" "Spell_Conjuration_ConjureElemental_HigherLevel_Fire"
 data "FormatColor" "Fire"
 data "StackId" "KYR_FIREWALKER"
 data "TickType" "StartTurn"
-data "Boosts" "Resistance(Fire, Immune);Resistance(Cold, Resistant);StatusImmunity(PRONE_ICE);StatusImmunity(BURNING)"
+data "Boosts" "Resistance(Fire, Resistant);Resistance(Cold, Resistant);StatusImmunity(PRONE_ICE);StatusImmunity(BURNING);StatusImmunity(WILD_MAGIC_BURNING);DamageReduction(Fire, Flat, ProficiencyBonus);"
 data "StatusGroups" "SG_Light"
 data "StatusEffect" "393ae64d-5014-4614-b25c-82ff744c0f31"
 
