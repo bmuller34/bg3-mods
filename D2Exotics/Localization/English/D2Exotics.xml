@@ -24,11 +24,11 @@
   <content contentuid="hab6cbdd0g65fdg4067gbe04gc0cab2f3db69" version="3">Cuirass of the Falling Star</content>
   <content contentuid="hc41647f8gd9a7g4124g825dg5b560b1ccc50" version="3">Hurtle through the air like a missile and crash into targets to inflict meteoric damage over [1]. Upon impact, you gain &lt;LSTag Type="Status" Tooltip="KYR_GLORIOUS_CHARGE"&gt;Glorious Charge&lt;/LSTag&gt;.</content>
   <content contentuid="h7fdf7137g3d18g40a2g9c2cg48ea62d7a4c7" version="3">Thundercrash</content>
-  <content contentuid="he456b399g3490g46f4gab5ag503cba85fcb1" version="3">Gain [1] and &lt;LSTag Type="Status" Tooltip="RESISTANCE"&gt;Resistance&lt;/LSTag&gt; to Lightning and Thunder damage. Additionally, grants &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to electrified surfaces.</content>
+  <content contentuid="he456b399g3490g46f4gab5ag503cba85fcb1" version="3">Gain [1] and &lt;LSTag Tooltip="RESISTANCE"&gt;Resistance&lt;/LSTag&gt; to Lightning and Thunder damage. Additionally, grants &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to electrified surfaces.</content>
   <content contentuid="h21eec164g031fg4892g983fg814c9a2b0477" version="3">Glorious Charge</content>
   <content contentuid="hd995df1bg6bddg4c29g88eeg2a8a6b0f9446" version="3">See the danger, even when it cannot see you.</content>
   <content contentuid="ha5df9251g9718g4a8cg90a3g82bb457d519a" version="3">Omnioculous</content>
-  <content contentuid="h344853c9g3a22g4083g83d5g4d481e996ea6" version="3">Smoke Bomb grants nearby allies &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisibility&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="RESISTANCE"&gt;Resistance&lt;/LSTag&gt; to all damage.</content>
+  <content contentuid="h344853c9g3a22g4083g83d5g4d481e996ea6" version="3">Smoke Bomb grants nearby allies &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisibility&lt;/LSTag&gt; and &lt;LSTag Tooltip="RESISTANCE"&gt;Resistance&lt;/LSTag&gt; to all damage.</content>
   <content contentuid="h0cdbc001g3ed4g49f3gb896g5b3ce5dab455" version="3">Beyond the Veil</content>
   <content contentuid="ha797e0edg7cb4g4961gaa75gafce762b20b4" version="3">Throw a smoke bomb at the target location, &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;blinding&lt;/LSTag&gt; nearby enemies. Additionally, grants &lt;LSTag Type="Status" Tooltip="KYR_BEYOND_THE_VEIL"&gt;Beyond the Veil&lt;/LSTag&gt; to allies.</content>
   <content contentuid="h5b1ce4ecg3857g4302g9e11g68df71cc43ff" version="3">Smoke Bomb</content>
@@ -255,7 +255,42 @@
   <content contentuid="h8ca4ed30g64c2g4121g9666g4e6a38afebd4" version="3">Karenstein Armlets</content>
   <content contentuid="h9c5df0a1g0ffbg46fcg9599g25ba1008a503" version="3">“You are mine, you shall be mine, you and I are one for ever.”</content>
   <content contentuid="ha4c22c15g9b68g4819g9911g42667c8e48d9" version="3">Vampire's Caress</content>
-  <content contentuid="h79ef128ag886cg498fgbbd5g90d0f0f1e10c" version="3">Unarmed melee kills restore a third of your total hit points. At the start of your next turn, you restore [0]. Additional kills extend the duration by 1 turn. Critical kills grant a longer duration.</content>
+  <content contentuid="h79ef128ag886cg498fgbbd5g90d0f0f1e10c" version="3">Unarmed melee kills restore a third of your total hit points. At the start of your next turn, you restore a fifth of your total hit points. Additional kills extend the duration by 1 turn. Critical kills grant a longer duration.</content>
+  <content contentuid="hbff1b5a1g3428g4115g9100g808cd8463351" version="3">Lunafaction Boots</content>
+  <content contentuid="hee546cacge3d1g4721gb4d3g5adffc80e0b2" version="3">"I thank you for the gift of these atoms. I will use them well." —The Stoic</content>
+  <content contentuid="h9edf3e34gb9a0g4d04gaf6bga68a560853f5" version="3">Alchemical Etchings</content>
+  <content contentuid="h13d64842gd72ag4ac5ga538g727ad7fd49fc" version="3">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is added to your &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; while standing in a &lt;LSTag Type="Spell" Tooltip="KYR_Shout_HealingRift"&gt;Healing Rift&lt;/LSTag&gt; and your &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; while standing in an &lt;LSTag Type="Spell" Tooltip="KYR_Shout_EmpoweringRift"&gt;Empowering Rift&lt;/LSTag&gt;.</content>
+  <content contentuid="h91eb6d1fg546ag4b6dga4c0g8aff0c8cc640" version="3">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is added to your &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; while standing in a &lt;LSTag Type="Spell" Tooltip="KYR_Shout_HealingRift"&gt;Healing Rift&lt;/LSTag&gt;.</content>
+  <content contentuid="h68f661f0g5114g41d0g9340gbd2dc598f6ef" version="3">Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is added to your &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; while standing in an &lt;LSTag Type="Spell" Tooltip="KYR_Shout_EmpoweringRift"&gt;Empowering Rift&lt;/LSTag&gt;.</content>
+  <content contentuid="h52289feeg078dg4967g9f12gc0f73917a11a" version="3">Necrotic Grip</content>
+  <content contentuid="hfbcb2974ge8cfg40a9g9074g46e697167b87" version="3">"To gain power, you must sacrifice. Exos have known this long before the Guardians' rise."  —Taeko-3</content>
+  <content contentuid="h6fde58e6g188eg4ba0gb525g19f82d545a6f" version="3">Grasp of the Devourer</content>
+  <content contentuid="h0924b9bdg2c22g4337g8cf8g2b484177229e" version="3">Damaging an enemy has a chance to afflict &lt;LSTag Type="Status" Tooltip="KYR_DEVOURINGGRASP_TECHNICAL"&gt;Devouring Grasp&lt;/LSTag&gt; for 3 turns. Defeating an afflicted enemy causes them to erupt, forcing neaby allies to make a &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. On a failed save, the entity also becomes afflicted. Damaging an afflicted enemy reapplies &lt;LSTag Type="Status" Tooltip="KYR_DEVOURINGGRASP_TECHNICAL"&gt;Devouring Grasp&lt;/LSTag&gt;.</content>
+  <content contentuid="h626e2a4ege9acg4685gbc41ga0891802780b" version="3">Devouring Grasp</content>
+  <content contentuid="h9370f85dgf188g465fgaadeg942e7eed5bf7" version="3">At the start of your turn, receive 1 stack of &lt;LSTag Type="Status" Tooltip="KYR_DEVOURINGGRASP_TECHNICAL"&gt;Devouring Grasp&lt;/LSTag&gt;, up to a maximum of 5 stacks. Each stack deals [1].</content>
+  <content contentuid="hb8f63563g814dg4f8egb865gb4098148c28a" version="3">Devouring Grasp x1</content>
+  <content contentuid="hcc2b6e56gfdceg44c8gb9efg847f3abb2229" version="3">Devouring Grasp x2</content>
+  <content contentuid="hc79b65ffgb6a4g4149gb155g1d8d85c46283" version="3">Devouring Grasp x3</content>
+  <content contentuid="h80a348a2g7fc5g473ega38fg78347c8ba7fd" version="3">Devouring Grasp x4</content>
+  <content contentuid="hd3a770a8ge4a9g4498g830egbed324d838b6" version="3">Devouring Grasp x5</content>
+  <content contentuid="h42da26b7gf76dg4db5ga8efg2d3d54ac3425" version="3">At the start of your turn, receive [1].</content>
+  <content contentuid="hbeaf6632g978cg4e18g94e5g773dcc01114d" version="3">Severance Enclosure</content>
+  <content contentuid="hb055dcd4g7054g489ag894dgbb2782175d31" version="3">The loop is made. Over and over until the collision. At that moment, severed fission.</content>
+  <content contentuid="hdb645081g9e57g40a3gb4c4ge6f29246abe4" version="3">Spheromatik Trigger</content>
+  <content contentuid="hdfc122d0ge845g4773g846ag7f2be50cf140" version="3">Melee final blows against enemies create an explosion of lightning at the target's location, dealing lightning damage over [1]. Critical final blows improve this effect.</content>
+  <content contentuid="h87364abegd4c4g470bg8b66g4ffedeadfe44" version="3">The Path of the Burning Steps</content>
+  <content contentuid="hc3956b66g5bd7g4793g808bg7ffddf1b1377" version="3">Those who walk through fire have burned away their fear.</content>
+  <content contentuid="h6bb013a9gc4fcg49f2g914egb877caec44ad" version="3">Firewalker</content>
+  <content contentuid="h29cede05gecdeg4845g89dcg1483614a7502" version="3">Melee final blows with Fire damage grant &lt;LSTag Type="Status" Tooltip="KYR_FIREWALKER"&gt;Firewalker&lt;/LSTag&gt; for 3 turns. You add Fire damage equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with each melee attack. Additionally, you become &lt;LSTag Tooltip="Immune"&gt;immune&lt;/LSTag&gt; to Fire damage, &lt;LSTag Tooltip="Resistant"&gt;resistant&lt;/LSTag&gt;  to Cold damage, cannot slip on ice and you leave a trail of fire behind you.</content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
   <content contentuid="" version="3"></content>
   <content contentuid="" version="3"></content>
   <content contentuid="" version="3"></content>
