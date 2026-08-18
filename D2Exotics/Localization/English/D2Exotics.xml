@@ -281,14 +281,27 @@
   <content contentuid="h87364abegd4c4g470bg8b66g4ffedeadfe44" version="3">The Path of the Burning Steps</content>
   <content contentuid="hc3956b66g5bd7g4793g808bg7ffddf1b1377" version="3">Those who walk through fire have burned away their fear.</content>
   <content contentuid="h6bb013a9gc4fcg49f2g914egb877caec44ad" version="3">Firewalker</content>
-  <content contentuid="h29cede05gecdeg4845g89dcg1483614a7502" version="3">Melee final blows with Fire damage grant &lt;LSTag Type="Status" Tooltip="KYR_FIREWALKER"&gt;Firewalker&lt;/LSTag&gt; for 3 turns. You add Fire damage equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with each melee attack. You become &lt;LSTag Tooltip="Resistant"&gt;resistant&lt;/LSTag&gt; to Fire and Cold damage. You gain &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; and cannot slip on ice. Incoming Fire damage is reduced by your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; and you leave a trail of fire behind you.</content>
-  <content contentuid="" version="3"></content>
-  <content contentuid="" version="3"></content>
-  <content contentuid="" version="3"></content>
-  <content contentuid="" version="3"></content>
-  <content contentuid="" version="3"></content>
-  <content contentuid="" version="3"></content>
-  <content contentuid="" version="3"></content>
+  <content contentuid="h29cede05gecdeg4845g89dcg1483614a7502" version="3">Melee final blows with Fire damage grant &lt;LSTag Type="Status" Tooltip="KYR_FIREWALKER"&gt;Firewalker&lt;/LSTag&gt; for 3 turns.</content>
+  <content contentuid="h1e06d03fg25edg4842gaf20gf41ecfa0494d" version="3">You leave a trail of fire in your wake. Add Fire damage equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; with each melee attack. Additionally, you become &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Fire and Cold damage, &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; and cannot slip on ice.</content>
+  <content contentuid="h5c2fcc6ag3643g4ce4gab43gf887e3964c46" version="3">Oathkeeper</content>
+  <content contentuid="hf4bac910g4420g45f4gabbcge9e0d87ea263" version="3">"I have not yet met my true death." —Sjur Eido, First Queen's Wrath</content>
+  <content contentuid="hf2c0f71dg14c9g47cagb994gbba0e78882b3" version="3">Adamantine Brace</content>
+  <content contentuid="hd7363dd5g0bb1g43bdga1a7gdf036656577a" version="3">While having a bow equipped, each round of combat you do not attack will grant you 1 stack of &lt;LSTag Type="Status" Tooltip="KYR_ADAMANTINEBRACE_TECHNICAL"&gt;Adamantine Brace&lt;/LSTag&gt;, up to a maximum of 3 stacks. Starting a round without a bow equipped or attacking removes all stacks.</content>
+  <content contentuid="hcae4cd31g5e68g4835g856dg7f27785376b3" version="3">Deal bonus damage equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; for each stack of &lt;LSTag Type="Status" Tooltip="KYR_ADAMANTINEBRACE_TECHNICAL"&gt;Adamantine Brace&lt;/LSTag&gt;, up to a maximum of 3 stacks.</content>
+  <content contentuid="h6aab3312g4f7fg420egaad5gbb9cf8bfe771" version="3">Your first bow attack with this buff receives [1] to its &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; and an additional [2] if the attack hits.</content>
+  <content contentuid="hf34e1aebg0d18g4015g90afg71c3a81ec891" version="3">Your first bow attack with this buff receives [1] to its &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; and an additional [2] if the attack hits. Additionally, your &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; threshold is reduced by 1.</content>
+  <content contentuid="h1a287bb2g16beg4b88g8e66g0bc245c7acc1" version="3">Adamantine Brace x1</content>
+  <content contentuid="h6eac6b8fge8a4g4d24g89aagfa74ef0d51e0" version="3">Adamantine Brace x2</content>
+  <content contentuid="hf9a78bcfga97cg4402g85b5g1c7589aec3c3" version="3">Adamantine Brace x3</content>
+  <content contentuid="hc7b99658g4640g4354g989agf186656d5e64" version="3">Lucky Pants</content>
+  <content contentuid="h21447a86g18ffg45f1gbbf9gea828fb0cf60" version="3">"What? No, I didn't illegally mod the holster. These are just really lucky pants!" —Cayde-6</content>
+  <content contentuid="he264083dgddc2g4a99ga6eeg0abc6e4145be" version="3">Illegally Modified Holster</content>
+  <content contentuid="hd5ed848cg7ad2g4413gb6f9gf46c5c725348" version="3">Dealing damage with a Hand Crossbow grants one stack of &lt;LSTag Type="Status" Tooltip="KYR_ILLEGALLYMODIFIEDHOLSTER"&gt;Illegally Modified Holster&lt;/LSTag&gt;, up to a maximum of 3 stacks. At the start of your next turn, all stacks reset.</content>
+  <content contentuid="h83b7f130g83b5g42d0g9559g4020e6394962" version="3">Your Hand Crossbows deal bonus weapon damage equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; for each stack of &lt;LSTag Type="Status" Tooltip="KYR_ILLEGALLYMODIFIEDHOLSTER"&gt;Illegally Modified Holster&lt;/LSTag&gt;</content>
+  <content contentuid="h810c4963gee80g4b28ga770g50cacc619d25" version="3">Your Hand Crossbows deal an additional [1].</content>
+  <content contentuid="h4f7a5be3g277ag405fga105gd2a779c7b90b" version="3">Illegally Modified Holster x1</content>
+  <content contentuid="h94f6e042gf115g428bg862bgd7d6d7c0ccc8" version="3">Illegally Modified Holster x2</content>
+  <content contentuid="hc5607905g8043g42cag81c6g434ea5124346" version="3">Illegally Modified Holster x3</content>
   <content contentuid="" version="3"></content>
   <content contentuid="" version="3"></content>
   <content contentuid="" version="3"></content>

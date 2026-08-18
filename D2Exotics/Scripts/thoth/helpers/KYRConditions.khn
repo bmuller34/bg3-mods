@@ -1,0 +1,11 @@
+function KYR_IsWieldingBow(entity)
+    entity = entity or context.Source
+    result = IsWeaponOfProficiencyGroup('Shortbows|Longbows', GetActiveWeapon()) & WieldingWeapon('Ammunition', false, false, entity)
+    return result
+end
+
+function KYR_IsWieldingHandCrossbow(entity)
+    entity = entity or context.Source
+    result = (IsWeaponOfProficiencyGroup('HandCrossbows', GetActiveWeapon())) & WieldingWeapon('Ammunition', false, false, entity)
+    return result
+end
