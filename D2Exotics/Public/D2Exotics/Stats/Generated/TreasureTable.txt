@@ -77,6 +77,8 @@ new subtable "1,1"
 object category "I_KYR_Oathkeeper",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_KYR_LuckyPants",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_KYR_MaskOfBakris",1,0,0,0,0,0,0,0
 new subtable "15,1"
 object category "I_KYR_OBJ_ArrowOfIgnition",1,0,0,0,0,0,0,0
 new subtable "15,1"
@@ -156,6 +158,8 @@ new subtable "1,1"
 object category "I_KYR_Oathkeeper",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_KYR_LuckyPants",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_KYR_MaskOfBakris",1,0,0,0,0,0,0,0
 new subtable "5,1"
 object category "I_KYR_OBJ_ArrowOfIgnition",1,0,0,0,0,0,0,0
 new subtable "5,1"
@@ -235,6 +239,8 @@ new subtable "1,1"
 object category "I_KYR_Oathkeeper",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_KYR_LuckyPants",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_KYR_MaskOfBakris",1,0,0,0,0,0,0,0
 new subtable "5,1"
 object category "I_KYR_OBJ_ArrowOfIgnition",1,0,0,0,0,0,0,0
 new subtable "5,1"
@@ -314,6 +320,8 @@ new subtable "1,1"
 object category "I_KYR_Oathkeeper",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_KYR_LuckyPants",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_KYR_MaskOfBakris",1,0,0,0,0,0,0,0
 new subtable "5,1"
 object category "I_KYR_OBJ_ArrowOfIgnition",1,0,0,0,0,0,0,0
 new subtable "5,1"
@@ -393,6 +401,8 @@ new subtable "1,1"
 object category "I_KYR_Oathkeeper",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_KYR_LuckyPants",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_KYR_MaskOfBakris",1,0,0,0,0,0,0,0
 new subtable "5,1"
 object category "I_KYR_OBJ_ArrowOfIgnition",1,0,0,0,0,0,0,0
 new subtable "5,1"
@@ -472,6 +482,8 @@ new subtable "1,1"
 object category "I_KYR_Oathkeeper",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_KYR_LuckyPants",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_KYR_MaskOfBakris",1,0,0,0,0,0,0,0
 new subtable "5,1"
 object category "I_KYR_OBJ_ArrowOfIgnition",1,0,0,0,0,0,0,0
 new subtable "5,1"

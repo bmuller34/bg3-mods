@@ -11633,9 +11633,9 @@
 					<attribute id="MapKey" type="FixedString" value="11518028-d13e-4f1f-84e1-e10ca6889251" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h5c2fcc6ag3643g4ce4gab43gf887e3964c46" version="3" />
 					<attribute id="Description" type="TranslatedString" handle="hf4bac910g4420g45f4gabbcge9e0d87ea263" version="3" />
+					<attribute id="Name" type="LSString" value="KYR_Oathkeeper" />
 					<attribute id="Icon" type="FixedString" value="Item_ARM_Gloves_Scalemail_A" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="Name" type="LSString" value="ARM_Gloves_Scalemail_A" />
 					<attribute id="ParentTemplateId" type="FixedString" value="c1531ce8-a2ce-4606-9cb7-5ed6d56b69a6" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="9b43fa58-c35b-242b-388d-885146084dce" />
@@ -12043,6 +12043,44 @@
 								</node>
 								<node id="WavyLongHair" />
 								<node id="WavyShortHair" />
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects"> Mask of Bakris
+					<attribute id="MapKey" type="FixedString" value="30434b71-89c0-4b80-b715-2a75f5d19cff" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hde16b790gdd18g4757ga5a2g0545db2d7898" version="3" />
+					<attribute id="Description" type="TranslatedString" handle="hd5cca5e8g6d61g4fedg980cg32f8a94454ce" version="3" />
+					<attribute id="Name" type="LSString" value="KYR_MaskOfBakris" />
+					<attribute id="Icon" type="FixedString" value="Item_DEC_Ketheric_Armor_Mask_Scrap_A_Magic" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="ParentTemplateId" type="FixedString" value="cf24494b-ad50-406b-8624-85de5afb7af5" />
+					<attribute id="Stats" type="FixedString" value="UND_Justiciar_Mask_Magic" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
+											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="IsHiddenStatus" type="bool" value="False" />
+											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
+											<attribute id="StatusDuration" type="int32" value="0" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7b96246c-54ba-43ea-b01d-4e0b20ad35f1" />
+								</node>
 							</children>
 						</node>
 					</children>

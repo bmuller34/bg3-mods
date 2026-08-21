@@ -6,7 +6,7 @@
   <content contentuid="h4453ab4meer48c8g4c2ag9f32ge38f8a396e" version="3">Ward of Dawn</content>
   <content contentuid="h7711ab4meer48c8g4c2ag9f32ge38f8a396e" version="3">Passing through Ward of Dawn grants [1] and adds [2] to your equipped weapon.</content>
   <content contentuid="h4411ab4meer48c8g4c2ag9f32ge38f8a396e" version="3">Blessing of Light</content>
-  <content contentuid="h7712ab4meer48c8g4c2ag9f32ge38f8a396e" version="3">While inside Ward of Dawn, you and your allies are &lt;LSTag Type="Status" Tooltip="RESISTANCE"&gt;Resistant&lt;/LSTag&gt; to all damage.</content>
+  <content contentuid="h7712ab4meer48c8g4c2ag9f32ge38f8a396e" version="3">While inside Ward of Dawn, you are &lt;LSTag Type="Status" Tooltip="RESISTANCE"&gt;Resistant&lt;/LSTag&gt; to all damage.</content>
   <content contentuid="h4412ab4meer48c8g4c2ag9f32ge38f8a396e" version="3">Armor of Light</content>
   <content contentuid="h5a0d6496g9bf0g426egb2c1ge7b7a0c54ced" version="3">"I call them the Stompies! For when your legs need that extra kick." —Marcus Ren</content>
   <content contentuid="h53f237ffg6793g470bg8311g691e744874ac" version="3">ST0MP-EE5</content>
@@ -14,7 +14,7 @@
   <content contentuid="hd4a538e7ge3f3g43e3g9577g969922487169" version="3">Hydraulic Boosters</content>
   <content contentuid="h06e15eadg9bbdg4f76gbf39gd3fc7aa02d56" version="3">"When one can wield the fire of stars, what use is flesh and bone?"</content>
   <content contentuid="hd96d6a8egf734g41cegb5edg1cb34671798d" version="3">Sunbracers</content>
-  <content contentuid="hbd7b4410gddb9g413egb290g91e3e690cfab" version="3">Getting a melee kill grants a free cast of &lt;LSTag Type="Spell" Tooltip="Projectile_FireBolt"&gt;Fire Bolt&lt;/LSTag&gt; with additional targets. Critical melee kills improve this effect.</content>
+  <content contentuid="hbd7b4410gddb9g413egb290g91e3e690cfab" version="3">Getting a melee final blow grants a free cast of &lt;LSTag Type="Spell" Tooltip="Projectile_FireBolt"&gt;Fire Bolt&lt;/LSTag&gt; with additional targets. Critical melee final blows improve this effect.</content>
   <content contentuid="h0aa414b8g7b80g40b3ga275gf30b1607fc5d" version="3">Helium Spirals</content>
   <content contentuid="h3de8acb7gae97g42b2gb0adg157e45a8bff7" version="3">Caution: the organism has been known to develop consciousness. In these cases, immediate termination is recommended.</content>
   <content contentuid="h8887fed5g3ae3g4807g96c8g47a7ccf116e5" version="3">Synthoceps</content>
@@ -46,7 +46,8 @@
   <content contentuid="h8569812agea6cg4988g83bcg1ee13aed5a6d" version="3">Cross Counter</content>
   <content contentuid="hfee3aac3gfe33g45e6gada3g048811489c69" version="3">The Active Contact Defense system uses warsat hull materials to store a retaliatory charge.</content>
   <content contentuid="ha215b7d2gbe4dg4d5cgb487gc71043719f90" version="3">ACD/0 Feedback Fence</content>
-  <content contentuid="he0a818bdg4c06g42f7g8bcag0b9e8fdcd1b6" version="3">Dealing melee damage grants 1 stack of &lt;LSTag Type="Status" Tooltip="KYR_FURY_CONDUCTORS_1"&gt;Fury Conductors&lt;/LSTag&gt;, up to a maximum of 6 stacks. Each stack reduces incoming Bludgeoning, Piercing and Slashing damage by [1]. Taking damage consumes your stacks, dealing [1] Lightning damage per stack to enemies within [2] of you.</content>
+  <content contentuid="h4f05db28g40efg41d8g988fg9f5b352d78d5" version="3">Dealing melee damage grants 1 stack of &lt;LSTag Type="Status" Tooltip="KYR_FURY_CONDUCTORS_1"&gt;Fury Conductors&lt;/LSTag&gt;, up to a maximum of 6 stacks. Every other stack reduces incoming Bludgeoning, Piercing and Slashing damage by your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;. Taking damage consumes your stacks, dealing your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; in Lightning damage per stack to enemies within [3] of you.</content>
+  <content contentuid="he0a818bdg4c06g42f7g8bcag0b9e8fdcd1b6" version="3">Dealing melee damage grants 1 stack of &lt;LSTag Type="Status" Tooltip="KYR_FURY_CONDUCTORS_1"&gt;Fury Conductors&lt;/LSTag&gt;, up to a maximum of 6 stacks. Every other stack reduces incoming Bludgeoning, Piercing and Slashing damage by [1]. Taking damage consumes your stacks, dealing [2] Lightning damage per stack to enemies within [3] of you.</content>
   <content contentuid="hdc423a53g48a0g4919gabd6g4a0fb05bc335" version="3">Fury Conductors</content>
   <content contentuid="h2b13c021g4101g40e6g9985g5fc5f2a6239f" version="3">Fury Conductors x1</content>
   <content contentuid="h947b8479gfc1dg41e1gb61cg01cf144f154e" version="3">Fury Conductors x2</content>
@@ -84,8 +85,10 @@
   <content contentuid="hd76d94a3g34a4g4b64g8e32g614cac33d3c8" version="3">Warlord's End (Greater)</content>
   <content contentuid="h2fc36dc9gd34eg410fgb001gfad2bddba905" version="3">"The Traveler has shown us that what was broken can be reformed, becoming better than it was before." —Commander Zavala</content>
   <content contentuid="h886b4143g24cbg4c9fg986dg64636335019c" version="3">Precious Scars</content>
-  <content contentuid="h8b2322cag6abfg4135gae27g2c2d1e9a212b" version="3">Weapon final blows create a burst of healing around you, restoring half of your total hit points to yourself and allies. &lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;Helping&lt;/LSTag&gt; an ally grants you &lt;LSTag Type="Status" Tooltip="KYR_KINTSUGI_AURA"&gt;Kintsugi&lt;/LSTag&gt;.</content>
-  <content contentuid="h6ca7f771g699cg4994g8996g4cc00b4eae75" version="3">You rally nearby allies, granting them half of your total hit points as temporary hit points. This effect ends after [1] turns or if you lose temporary hit points.</content>
+  <content contentuid="h787839e3g80f7g41e7gadfcgce6f32c239de" version="3">Granted through Precious Scars.</content>
+  <content contentuid="h44939460gf216g400dga7c9g382e51ed3352" version="3">Kintsugi (Help)</content>
+  <content contentuid="h8b2322cag6abfg4135gae27g2c2d1e9a212b" version="3">Weapon final blows create a burst of healing around you, restoring [1] to yourself and allies. &lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;Helping&lt;/LSTag&gt; an ally grants you &lt;LSTag Type="Status" Tooltip="KYR_KINTSUGI_AURA"&gt;Kintsugi&lt;/LSTag&gt;.</content>
+  <content contentuid="h6ca7f771g699cg4994g8996g4cc00b4eae75" version="3">You rally nearby allies, granting them [1]. This effect ends after [2] turns or if you lose temporary hit points.</content>
   <content contentuid="h74facaa0gfcf8g4c1cgad6cg5e2cfdf8036f" version="3">While standing in this aura, you receive temporary hit points equal to half the total hit points of the aura source. This effect ends after [1] turns or when the source of the aura loses their temporary hit points.</content>
   <content contentuid="h18c0d6c5g6287g4d20gbd6bg7907f1737fe2" version="3">Kintsugi</content>
   <content contentuid="hf09a1417ge6d7g44d5g914bg2e8e137a7f09" version="3">Starlight is your guide. No vacuum will contain you.</content>
@@ -99,8 +102,8 @@
   <content contentuid="hdbfb8c7egf854g4901ga702g8b9fb2fc4609" version="3">Primed To Ignite</content>
   <content contentuid="hd65c0757gb037g4b54g9c36g31a085a1a620" version="3">Built for swift movement, they provide unexpected and decisive social benefits.</content>
   <content contentuid="had6649beg4098g4dcdga284g86083db024c4" version="3">Radiant Dance Machines</content>
-  <content contentuid="h088d5fd7g56aag48e4g9191gb19c0494bf65" version="3">When an attack misses you, you gain &lt;LSTag Type="Status" Tooltip="KYR_THE_DANCE"&gt;The Dance&lt;/LSTag&gt; for [1] turns. Getting a kill while &lt;LSTag Type="Status" Tooltip="KYR_THE_DANCE"&gt;The Dance&lt;/LSTag&gt; is active extends its duration by 1 turn.</content>
-  <content contentuid="h0e08b770g5938g4d22g9d4eg44f412c73558" version="3">The next attack against you is made with &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;. Getting a kill while this buff is active extends its duration by 1 turn.</content>
+  <content contentuid="h088d5fd7g56aag48e4g9191gb19c0494bf65" version="3">When an attack misses you, you gain &lt;LSTag Type="Status" Tooltip="KYR_THE_DANCE"&gt;The Dance&lt;/LSTag&gt; for [1] turns. Getting a final blow while &lt;LSTag Type="Status" Tooltip="KYR_THE_DANCE"&gt;The Dance&lt;/LSTag&gt; is active extends its duration by 1 turn.</content>
+  <content contentuid="h0e08b770g5938g4d22g9d4eg44f412c73558" version="3">The next attack against you is made with &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;. Getting a final blow while this buff is active extends its duration by 1 turn.</content>
   <content contentuid="ha637b215g1188g4522gbc53ge21e0169f030" version="3">The Dance</content>
   <content contentuid="h64a82137g1953g4c58gad66g66905352e086" version="3">An eye for an eye.</content>
   <content contentuid="hd6535b7ag89eag4200gb5cfgb1b42ba1c576" version="3">One-Eyed Mask</content>
@@ -125,8 +128,8 @@
   <content contentuid="h3f8c14ddgc324g4be2gb832g599b44cbf87e" version="3">Dearly Departed</content>
   <content contentuid="h6ac21a24g2625g4368g8117g3b6e52c870e0" version="3">There is power in blood.</content>
   <content contentuid="hc636b0c2g3d30g4771gab50g3333a2473ef3" version="3">Sanguine Alchemy</content>
-  <content contentuid="hb153fbf1gde7cg4b09g83a0gfc4b260d7ee5" version="3">Standing in any Rift grants [1] to your equipped weapons. Kills in either a &lt;LSTag Type="Spell" Tooltip="KYR_Shout_HealingRift"&gt;Healing Rift&lt;/LSTag&gt; or an &lt;LSTag Type="Spell" Tooltip="KYR_Shout_EmpoweringRift"&gt;Empowering Rift&lt;/LSTag&gt; allow you to cast another Rift as a bonus action.</content>
-  <content contentuid="h50bbd87cgd4b9g40deg8112g0ac30fd3e81f" version="3">Kills in either a &lt;LSTag Type="Spell" Tooltip="KYR_Shout_HealingRift"&gt;Healing Rift&lt;/LSTag&gt; or an &lt;LSTag Type="Spell" Tooltip="KYR_Shout_EmpoweringRift"&gt;Empowering Rift&lt;/LSTag&gt; allow you to cast another Rift as a bonus action.</content>
+  <content contentuid="hb153fbf1gde7cg4b09g83a0gfc4b260d7ee5" version="3">Standing in any Rift grants [1] to your equipped weapons. Final blows in either a &lt;LSTag Type="Spell" Tooltip="KYR_Shout_HealingRift"&gt;Healing Rift&lt;/LSTag&gt; or an &lt;LSTag Type="Spell" Tooltip="KYR_Shout_EmpoweringRift"&gt;Empowering Rift&lt;/LSTag&gt; allow you to cast another Rift as a bonus action.</content>
+  <content contentuid="h50bbd87cgd4b9g40deg8112g0ac30fd3e81f" version="3">Final blows in either a &lt;LSTag Type="Spell" Tooltip="KYR_Shout_HealingRift"&gt;Healing Rift&lt;/LSTag&gt; or an &lt;LSTag Type="Spell" Tooltip="KYR_Shout_EmpoweringRift"&gt;Empowering Rift&lt;/LSTag&gt; allow you to cast another Rift as a bonus action.</content>
   <content contentuid="h40df1139g5294g43f5g912eg47c048fd1fab" version="3">Blood Magic</content>
   <content contentuid="h20a286ccgf999g4836gbe65g3ad59717154f" version="3">"Drawn like so, the Rift circle reinscribes planetary energy as a destructive force." —Ikora Rey, "On Circles, Volume 12"</content>
   <content contentuid="hcf0c5d51g6eb0g4280gb695g534172ff0761" version="3">Vesper of Radius</content>
@@ -141,7 +144,7 @@
   <content contentuid="hee7dee0dg9000g4598g8302gab3a1e965213" version="3">Secant Filaments</content>
   <content contentuid="hbc2aaa2agb998g4942ga10fg3c2c5f404758" version="3">Standing in an &lt;LSTag Type="Spell" Tooltip="KYR_Shout_EmpoweringRift"&gt;Empowering Rift&lt;/LSTag&gt; grants you &lt;LSTag Type="Status" Tooltip="KYR_DEVOUR"&gt;Devour&lt;/LSTag&gt; as well as bonus Necrotic damage to your weapons.</content>
   <content contentuid="h3b42cb68g7bd1g45b2ga98ag3f0cdbbd6860" version="3">Devouring Rift</content>
-  <content contentuid="h6dab0d1bgbe76g4150g9818g1c3f50c2c4b4" version="3">Enemy final blows restore half of your total health and extend the duration of &lt;LSTag Type="Status" Tooltip="KYR_DEVOUR"&gt;Devour&lt;/LSTag&gt; to 3 turns.</content>
+  <content contentuid="h6dab0d1bgbe76g4150g9818g1c3f50c2c4b4" version="3">Enemy final blows restore [1] and extend the duration of &lt;LSTag Type="Status" Tooltip="KYR_DEVOUR"&gt;Devour&lt;/LSTag&gt; to 3 turns.</content>
   <content contentuid="h1caa89f4gb8f4g40edg8a8age7aa3d1d8322" version="3">Devour</content>
   <content contentuid="h130d8472gfef7g4a10gad13gb9f792cbae82" version="3">Pass the torch. Spread the fire.</content>
   <content contentuid="h92c0d051gcac0g4a88gb451gba2def21e423" version="3">Promethium Spur</content>
@@ -252,10 +255,11 @@
   <content contentuid="he640bd97g0027g4ca5g8aa5gfe6a58d7275e" version="3">Arrow of Volatility</content>
   <content contentuid="hf17f330bgf59ag4b2eg95dag73bd8e809173" version="3">Imbued with Void energy, this arrow will cause its target to become &lt;LSTag Type="Status" Tooltip="KYR_VOLATILE"&gt;Volatile&lt;/LSTag&gt;.</content>
   <content contentuid="h6a991015g6dabg4059gaad7g9e85ad2f9f94" version="3">On a failed save, target becomes &lt;LSTag Type="Status" Tooltip="KYR_VOLATILE"&gt;Volatile&lt;/LSTag&gt;</content>
-  <content contentuid="h8ca4ed30g64c2g4121g9666g4e6a38afebd4" version="3">Karenstein Armlets</content>
+  <content contentuid="h8ca4ed30g64c2g4121g9666g4e6a38afebd4" version="3">Karnstein Armlets</content>
   <content contentuid="h9c5df0a1g0ffbg46fcg9599g25ba1008a503" version="3">“You are mine, you shall be mine, you and I are one for ever.”</content>
   <content contentuid="ha4c22c15g9b68g4819g9911g42667c8e48d9" version="3">Vampire's Caress</content>
-  <content contentuid="h79ef128ag886cg498fgbbd5g90d0f0f1e10c" version="3">Unarmed melee kills restore a third of your total hit points. At the start of your next turn, you restore a fifth of your total hit points. Additional kills extend the duration by 1 turn. Critical kills grant a longer duration.</content>
+  <content contentuid="h79ef128ag886cg498fgbbd5g90d0f0f1e10c" version="3">Unarmed melee final blows restore [1]. At the start of your next turn, you restore [2]. Additional final blows extend the duration by 1 turn. Critical final blows grant a longer duration.</content>
+  <content contentuid="h71e6d176gb4e6g44a0g84c2gf3d1b57ea543" version="3">At the start of your turn, restore [1]. Additional final blows extend the duration by 1 turn. Critical final blows grant a longer duration.</content>
   <content contentuid="hbff1b5a1g3428g4115g9100g808cd8463351" version="3">Lunafaction Boots</content>
   <content contentuid="hee546cacge3d1g4721gb4d3g5adffc80e0b2" version="3">"I thank you for the gift of these atoms. I will use them well." —The Stoic</content>
   <content contentuid="h9edf3e34gb9a0g4d04gaf6bga68a560853f5" version="3">Alchemical Etchings</content>
@@ -302,6 +306,19 @@
   <content contentuid="h4f7a5be3g277ag405fga105gd2a779c7b90b" version="3">Illegally Modified Holster x1</content>
   <content contentuid="h94f6e042gf115g428bg862bgd7d6d7c0ccc8" version="3">Illegally Modified Holster x2</content>
   <content contentuid="hc5607905g8043g42cag81c6g434ea5124346" version="3">Illegally Modified Holster x3</content>
+  <content contentuid="hde16b790gdd18g4757ga5a2g0545db2d7898" version="3">Mask of Bakris</content>
+  <content contentuid="hd5cca5e8g6d61g4fedg980cg32f8a94454ce" version="3">"I cast off my carapace to be reborn, just like our glorious Riis."  —Atraks-1, Fallen Exo</content>
+  <content contentuid="he1980d79g7d08g4b48ga113g31c30ce3d826" version="3">Light Shift</content>
+  <content contentuid="h9f5765d0gf754g4937g8834g1a38b1991ecb" version="3">Shift to a location up to [1] away and gain &lt;LSTag Type="Status" Tooltip="KYR_SHIFTINGLIGHT"&gt;Shifting Light&lt;/LSTag&gt; for 2 turns.</content>
+  <content contentuid="h358f6c42gdeb4g4d80ga7adgad4bb9559e8c" version="3">Shifting Light</content>
+  <content contentuid="he70fdf6fga6bbg4407g9c48g1ac8932fd393" version="3">Your Lightning and Cold attacks deal additional damage based on your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;. Additionally, Lightning attacks apply &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Shocked&lt;/LSTag&gt; and Cold attacks apply &lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;Encrusted with Frost&lt;/LSTag&gt;.</content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
+  <content contentuid="" version="3"></content>
   <content contentuid="" version="3"></content>
   <content contentuid="" version="3"></content>
   <content contentuid="" version="3"></content>
